@@ -1,0 +1,18 @@
+function segment_text(text, dictionary):
+    segmented = []
+    i = 0
+    while i < len(text):
+        longest_match = None
+        for j in range(i + 1, len(text) + 1):
+            word = text[i:j]
+            if word in dictionary:
+                longest_match = word
+        if longest_match:
+            segmented.append(longest_match)
+            i += len(longest_match)
+        else:
+            segmented.append(text[i])
+            i += 1
+    return segmented
+
+
