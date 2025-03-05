@@ -1,0 +1,1471 @@
+Age,DailyRate,Department,EducationField,Gender,MaritalStatus,MonthlyRate,OverTime,Bonus
+41,1102,Sales,Life Sciences,Female,Single,19479,Yes,1947.9
+49,279,Research & Development,Life Sciences,Male,Married,24907,No,2490.7000000000003
+37,1373,Research & Development,Other,Male,Single,2396,Yes,239.60000000000002
+33,1392,Research & Development,Life Sciences,Female,Married,23159,Yes,2315.9
+27,591,Research & Development,Medical,Male,Married,16632,No,1663.2
+32,1005,Research & Development,Life Sciences,Male,Single,11864,No,1186.4
+59,1324,Research & Development,Medical,Female,Married,9964,Yes,996.4000000000001
+30,1358,Research & Development,Life Sciences,Male,Divorced,13335,No,1333.5
+38,216,Research & Development,Life Sciences,Male,Single,8787,No,878.7
+36,1299,Research & Development,Medical,Male,Married,16577,No,1657.7
+35,809,Research & Development,Medical,Male,Married,16479,No,1647.9
+29,153,Research & Development,Life Sciences,Female,Single,12682,Yes,1268.2
+31,670,Research & Development,Life Sciences,Male,Divorced,15170,No,1517.0
+34,1346,Research & Development,Medical,Male,Divorced,8758,No,875.8000000000001
+28,103,Research & Development,Life Sciences,Male,Single,12947,Yes,1294.7
+29,1389,Research & Development,Life Sciences,Female,Divorced,10195,No,1019.5
+32,334,Research & Development,Life Sciences,Male,Divorced,15053,Yes,1505.3000000000002
+22,1123,Research & Development,Medical,Male,Divorced,7324,Yes,732.4000000000001
+53,1219,Sales,Life Sciences,Female,Married,22021,No,2202.1
+38,371,Research & Development,Life Sciences,Male,Single,4306,Yes,430.6
+24,673,Research & Development,Other,Female,Divorced,8232,No,823.2
+36,1218,Sales,Life Sciences,Male,Single,6986,No,698.6
+34,419,Research & Development,Life Sciences,Female,Single,21293,No,2129.3
+21,391,Research & Development,Life Sciences,Male,Single,19281,No,1928.1000000000001
+34,699,Research & Development,Medical,Male,Single,17102,No,1710.2
+53,1282,Research & Development,Other,Female,Divorced,10735,No,1073.5
+32,1125,Research & Development,Life Sciences,Female,Single,4681,Yes,468.1
+42,691,Sales,Marketing,Male,Married,21173,No,2117.3
+44,477,Research & Development,Medical,Female,Married,2094,No,209.4
+46,705,Sales,Marketing,Female,Single,22822,No,2282.2000000000003
+33,924,Research & Development,Medical,Male,Single,6670,No,667.0
+44,1459,Research & Development,Other,Male,Married,19121,Yes,1912.1000000000001
+30,125,Research & Development,Medical,Male,Single,16117,No,1611.7
+39,895,Sales,Technical Degree,Male,Married,3335,No,333.5
+24,813,Research & Development,Medical,Male,Married,3020,Yes,302.0
+43,1273,Research & Development,Medical,Female,Divorced,21923,No,2192.3
+50,869,Sales,Marketing,Male,Married,3810,Yes,381.0
+35,890,Sales,Marketing,Female,Married,9687,No,968.7
+36,852,Research & Development,Life Sciences,Female,Married,13072,Yes,1307.2
+33,1141,Sales,Life Sciences,Female,Married,3193,No,319.3
+35,464,Research & Development,Other,Male,Divorced,10910,No,1091.0
+27,1240,Research & Development,Life Sciences,Female,Divorced,19715,No,1971.5
+26,1357,Research & Development,Life Sciences,Male,Single,10558,No,1055.8
+27,994,Sales,Life Sciences,Male,Single,2975,No,297.5
+30,721,Research & Development,Medical,Female,Single,10781,No,1078.1000000000001
+41,1360,Research & Development,Technical Degree,Female,Married,16280,No,1628.0
+34,1065,Sales,Marketing,Male,Single,10034,No,1003.4000000000001
+37,408,Research & Development,Life Sciences,Male,Married,10227,No,1022.7
+46,1211,Sales,Marketing,Male,Single,20445,Yes,2044.5
+35,1229,Research & Development,Life Sciences,Male,Married,4892,No,489.20000000000005
+48,626,Research & Development,Life Sciences,Male,Single,19294,Yes,1929.4
+28,1434,Research & Development,Technical Degree,Male,Single,11179,Yes,1117.9
+44,1488,Sales,Marketing,Female,Divorced,4009,Yes,400.90000000000003
+35,1097,Research & Development,Medical,Male,Married,8302,Yes,830.2
+26,1443,Sales,Marketing,Female,Married,21436,Yes,2143.6
+33,515,Research & Development,Life Sciences,Female,Single,15146,Yes,1514.6000000000001
+35,853,Sales,Life Sciences,Male,Married,11031,No,1103.1000000000001
+35,1142,Research & Development,Medical,Female,Married,16002,Yes,1600.2
+31,655,Research & Development,Life Sciences,Male,Divorced,9528,No,952.8000000000001
+37,1115,Research & Development,Life Sciences,Male,Divorced,2689,No,268.90000000000003
+32,427,Research & Development,Medical,Male,Married,10877,Yes,1087.7
+38,653,Research & Development,Life Sciences,Female,Single,5456,No,545.6
+50,989,Research & Development,Medical,Female,Divorced,16701,Yes,1670.1000000000001
+59,1435,Sales,Life Sciences,Female,Single,2354,No,235.4
+36,1223,Research & Development,Technical Degree,Female,Divorced,8202,No,820.2
+55,836,Research & Development,Medical,Female,Divorced,19730,Yes,1973.0
+36,1195,Research & Development,Life Sciences,Male,Single,22656,No,2265.6
+45,1339,Research & Development,Life Sciences,Male,Divorced,18787,No,1878.7
+35,664,Research & Development,Medical,Male,Married,5868,No,586.8000000000001
+36,318,Research & Development,Medical,Male,Married,21777,Yes,2177.7000000000003
+59,1225,Sales,Life Sciences,Female,Single,24668,No,2466.8
+29,1328,Research & Development,Life Sciences,Male,Married,4956,No,495.6
+31,1082,Research & Development,Medical,Male,Single,18775,No,1877.5
+32,548,Research & Development,Life Sciences,Male,Married,7346,No,734.6
+36,132,Research & Development,Life Sciences,Female,Married,22002,No,2200.2000000000003
+31,746,Research & Development,Life Sciences,Female,Single,20682,No,2068.2000000000003
+35,776,Sales,Marketing,Male,Single,23016,No,2301.6
+45,193,Research & Development,Other,Male,Married,15067,Yes,1506.7
+37,397,Research & Development,Medical,Male,Single,25258,No,2525.8
+46,945,Human Resources,Medical,Male,Divorced,10425,Yes,1042.5
+30,852,Research & Development,Life Sciences,Male,Married,15998,Yes,1599.8000000000002
+35,1214,Research & Development,Medical,Male,Single,26278,No,2627.8
+55,111,Sales,Life Sciences,Male,Married,18092,No,1809.2
+38,573,Research & Development,Medical,Female,Divorced,15717,Yes,1571.7
+34,1153,Research & Development,Medical,Male,Married,17736,No,1773.6000000000001
+56,1400,Research & Development,Life Sciences,Male,Single,21698,No,2169.8
+23,541,Sales,Technical Degree,Male,Divorced,9518,No,951.8000000000001
+51,432,Research & Development,Life Sciences,Male,Married,18725,No,1872.5
+30,288,Research & Development,Life Sciences,Male,Married,15830,No,1583.0
+46,669,Sales,Medical,Male,Single,13596,No,1359.6000000000001
+40,530,Research & Development,Life Sciences,Male,Married,14115,No,1411.5
+51,632,Sales,Marketing,Male,Single,8423,Yes,842.3000000000001
+30,1334,Sales,Medical,Female,Divorced,19760,Yes,1976.0
+46,638,Research & Development,Medical,Male,Married,3142,Yes,314.20000000000005
+32,1093,Sales,Medical,Male,Single,24301,No,2430.1
+54,1217,Research & Development,Technical Degree,Female,Married,24001,No,2400.1
+24,1353,Sales,Other,Female,Married,17519,No,1751.9
+28,120,Sales,Medical,Male,Married,8863,No,886.3000000000001
+58,682,Sales,Medical,Male,Single,24409,No,2440.9
+44,489,Research & Development,Medical,Male,Married,25043,No,2504.3
+37,807,Human Resources,Human Resources,Male,Divorced,23648,Yes,2364.8
+32,827,Research & Development,Life Sciences,Male,Single,15178,No,1517.8000000000002
+20,871,Research & Development,Life Sciences,Female,Single,19783,Yes,1978.3000000000002
+34,665,Research & Development,Other,Female,Single,12482,No,1248.2
+37,1040,Research & Development,Life Sciences,Male,Divorced,15850,No,1585.0
+59,1420,Human Resources,Human Resources,Female,Married,21922,No,2192.2000000000003
+50,1115,Research & Development,Life Sciences,Female,Married,9755,Yes,975.5
+25,240,Sales,Marketing,Male,Single,26959,Yes,2695.9
+25,1280,Research & Development,Medical,Male,Married,26897,No,2689.7000000000003
+22,534,Research & Development,Medical,Female,Single,23785,No,2378.5
+51,1456,Research & Development,Medical,Female,Single,25796,No,2579.6000000000004
+34,658,Research & Development,Life Sciences,Male,Single,22887,Yes,2288.7000000000003
+54,142,Human Resources,Human Resources,Female,Single,13871,Yes,1387.1000000000001
+24,1127,Research & Development,Life Sciences,Male,Married,13257,No,1325.7
+34,1031,Research & Development,Life Sciences,Female,Divorced,15000,No,1500.0
+37,1189,Sales,Life Sciences,Male,Single,14506,No,1450.6000000000001
+34,1354,Research & Development,Medical,Female,Single,5615,No,561.5
+36,1467,Sales,Technical Degree,Female,Married,22952,No,2295.2000000000003
+36,922,Research & Development,Life Sciences,Female,Divorced,2561,No,256.1
+43,394,Sales,Life Sciences,Male,Married,19494,Yes,1949.4
+30,1312,Research & Development,Life Sciences,Male,Divorced,22310,No,2231.0
+33,750,Sales,Marketing,Male,Married,15480,No,1548.0
+56,441,Research & Development,Life Sciences,Female,Married,4510,Yes,451.0
+51,684,Research & Development,Life Sciences,Male,Single,6462,No,646.2
+31,249,Sales,Life Sciences,Male,Married,20739,Yes,2073.9
+26,841,Research & Development,Other,Female,Married,23300,No,2330.0
+58,147,Research & Development,Medical,Female,Married,3465,No,346.5
+19,528,Sales,Marketing,Male,Single,26820,Yes,2682.0
+22,594,Research & Development,Technical Degree,Male,Married,19299,No,1929.9
+49,470,Research & Development,Medical,Female,Married,5549,No,554.9
+43,957,Research & Development,Medical,Female,Single,16090,No,1609.0
+50,809,Sales,Marketing,Female,Single,6645,No,664.5
+31,542,Sales,Life Sciences,Female,Married,24788,Yes,2478.8
+41,802,Sales,Life Sciences,Male,Divorced,21196,Yes,2119.6
+26,1355,Human Resources,Life Sciences,Female,Married,8916,No,891.6
+36,216,Research & Development,Medical,Male,Divorced,2819,No,281.90000000000003
+51,1150,Research & Development,Life Sciences,Male,Single,25150,No,2515.0
+39,1329,Sales,Life Sciences,Female,Married,14590,No,1459.0
+25,959,Sales,Life Sciences,Male,Married,24835,No,2483.5
+30,1240,Human Resources,Human Resources,Male,Married,13982,Yes,1398.2
+32,1033,Research & Development,Medical,Female,Single,10224,No,1022.4000000000001
+45,1316,Research & Development,Medical,Male,Single,9752,No,975.2
+38,364,Research & Development,Technical Degree,Female,Single,2302,Yes,230.20000000000002
+30,438,Research & Development,Life Sciences,Female,Single,23910,No,2391.0
+32,689,Sales,Medical,Male,Divorced,22812,No,2281.2000000000003
+30,201,Research & Development,Technical Degree,Female,Divorced,10415,No,1041.5
+30,1427,Research & Development,Medical,Male,Single,11162,No,1116.2
+41,857,Research & Development,Life Sciences,Male,Divorced,12888,No,1288.8000000000002
+41,933,Research & Development,Life Sciences,Male,Married,6961,No,696.1
+19,1181,Research & Development,Medical,Female,Single,16102,No,1610.2
+40,1395,Research & Development,Medical,Female,Divorced,8504,No,850.4000000000001
+35,662,Sales,Marketing,Male,Married,11439,No,1143.9
+53,1436,Sales,Marketing,Male,Married,16047,Yes,1604.7
+45,194,Research & Development,Life Sciences,Male,Divorced,10901,No,1090.1000000000001
+32,967,Sales,Marketing,Female,Single,15589,No,1558.9
+29,1496,Research & Development,Technical Degree,Male,Married,26283,No,2628.3
+51,1169,Research & Development,Medical,Male,Married,13983,No,1398.3000000000002
+58,1145,Research & Development,Medical,Female,Married,11873,Yes,1187.3
+40,630,Sales,Marketing,Male,Married,8552,No,855.2
+34,303,Sales,Marketing,Female,Married,11314,No,1131.4
+22,1256,Research & Development,Medical,Male,Married,11992,No,1199.2
+27,691,Research & Development,Medical,Male,Divorced,5970,No,597.0
+28,440,Research & Development,Medical,Male,Married,6672,No,667.2
+57,334,Research & Development,Life Sciences,Male,Divorced,23402,Yes,2340.2000000000003
+27,1450,Research & Development,Medical,Male,Divorced,25326,Yes,2532.6000000000004
+50,1452,Research & Development,Life Sciences,Female,Single,17053,No,1705.3000000000002
+41,465,Research & Development,Life Sciences,Male,Divorced,4609,No,460.90000000000003
+30,1339,Sales,Life Sciences,Female,Married,8053,No,805.3000000000001
+38,702,Sales,Life Sciences,Female,Single,12930,No,1293.0
+32,120,Research & Development,Life Sciences,Male,Single,12430,No,1243.0
+27,1157,Research & Development,Technical Degree,Male,Married,13364,Yes,1336.4
+19,602,Sales,Technical Degree,Female,Single,20989,No,2098.9
+36,1480,Research & Development,Medical,Male,Single,15062,No,1506.2
+30,111,Research & Development,Medical,Male,Divorced,11012,No,1101.2
+45,1268,Sales,Life Sciences,Female,Divorced,6319,Yes,631.9000000000001
+56,713,Research & Development,Life Sciences,Female,Divorced,13939,Yes,1393.9
+33,134,Research & Development,Life Sciences,Male,Single,10515,No,1051.5
+19,303,Research & Development,Life Sciences,Male,Single,9241,No,924.1
+46,526,Sales,Marketing,Female,Divorced,2137,No,213.70000000000002
+38,1380,Research & Development,Life Sciences,Female,Single,6319,No,631.9000000000001
+31,140,Research & Development,Medical,Female,Married,6984,Yes,698.4000000000001
+34,629,Research & Development,Medical,Female,Single,5711,No,571.1
+41,1356,Sales,Marketing,Female,Single,21728,Yes,2172.8
+50,328,Research & Development,Medical,Male,Married,3425,No,342.5
+53,1084,Research & Development,Medical,Female,Divorced,26250,No,2625.0
+33,931,Research & Development,Medical,Female,Married,4673,No,467.3
+40,989,Research & Development,Medical,Female,Married,6499,No,649.9000000000001
+55,692,Research & Development,Medical,Male,Single,13339,No,1333.9
+34,1069,Research & Development,Life Sciences,Male,Married,14074,No,1407.4
+51,313,Research & Development,Medical,Female,Single,7192,No,719.2
+52,699,Research & Development,Life Sciences,Male,Married,5678,No,567.8000000000001
+27,894,Research & Development,Medical,Female,Single,11781,No,1178.1000000000001
+35,556,Research & Development,Life Sciences,Male,Married,15497,Yes,1549.7
+43,1344,Research & Development,Medical,Male,Divorced,5228,No,522.8000000000001
+45,1195,Research & Development,Medical,Male,Married,20462,No,2046.2
+37,290,Research & Development,Life Sciences,Male,Married,22977,Yes,2297.7000000000003
+35,138,Research & Development,Medical,Female,Single,15986,No,1598.6000000000001
+42,926,Research & Development,Medical,Female,Divorced,16439,No,1643.9
+38,1261,Research & Development,Life Sciences,Male,Married,7259,No,725.9000000000001
+38,1084,Research & Development,Technical Degree,Male,Married,4185,No,418.5
+27,472,Research & Development,Technical Degree,Male,Married,9679,No,967.9000000000001
+49,1002,Research & Development,Life Sciences,Male,Divorced,23793,Yes,2379.3
+34,878,Research & Development,Medical,Male,Divorced,5972,Yes,597.2
+40,905,Research & Development,Medical,Male,Married,16523,Yes,1652.3000000000002
+38,1180,Research & Development,Medical,Male,Married,11354,Yes,1135.4
+29,121,Sales,Marketing,Female,Married,24525,No,2452.5
+22,1136,Research & Development,Life Sciences,Male,Divorced,12392,Yes,1239.2
+36,635,Research & Development,Medical,Female,Single,7703,No,770.3000000000001
+40,1151,Research & Development,Life Sciences,Male,Married,14242,No,1424.2
+46,644,Research & Development,Medical,Male,Divorced,12368,No,1236.8000000000002
+32,1045,Sales,Medical,Male,Married,25812,No,2581.2000000000003
+30,829,Research & Development,Life Sciences,Male,Single,20925,No,2092.5
+27,1242,Sales,Life Sciences,Female,Single,12916,No,1291.6000000000001
+51,1469,Research & Development,Life Sciences,Male,Married,15736,No,1573.6000000000001
+30,1005,Research & Development,Technical Degree,Female,Single,8556,Yes,855.6
+41,896,Sales,Life Sciences,Female,Single,14674,Yes,1467.4
+30,334,Sales,Marketing,Female,Single,22967,No,2296.7000000000003
+29,992,Research & Development,Technical Degree,Male,Single,19757,No,1975.7
+45,1052,Sales,Medical,Female,Single,16840,No,1684.0
+54,1147,Sales,Marketing,Female,Married,17011,No,1701.1000000000001
+36,1396,Research & Development,Life Sciences,Male,Single,9945,No,994.5
+33,147,Research & Development,Medical,Female,Married,13248,No,1324.8000000000002
+37,663,Research & Development,Other,Male,Divorced,10056,Yes,1005.6
+38,119,Sales,Life Sciences,Male,Divorced,9647,No,964.7
+31,979,Research & Development,Medical,Male,Married,4381,No,438.1
+59,142,Research & Development,Life Sciences,Male,Married,8456,No,845.6
+37,319,Sales,Marketing,Male,Divorced,2539,No,253.9
+29,1413,Sales,Medical,Female,Married,6599,No,659.9000000000001
+35,944,Sales,Marketing,Female,Single,9096,No,909.6
+29,896,Research & Development,Medical,Male,Single,14961,Yes,1496.1000000000001
+52,1323,Research & Development,Life Sciences,Female,Single,3300,No,330.0
+42,532,Research & Development,Technical Degree,Male,Married,4933,No,493.3
+59,818,Human Resources,Medical,Male,Married,25657,No,2565.7000000000003
+50,854,Sales,Medical,Female,Divorced,24118,No,2411.8
+33,813,Research & Development,Medical,Male,Married,22149,Yes,2214.9
+43,1034,Sales,Marketing,Female,Married,7744,Yes,774.4000000000001
+33,465,Research & Development,Life Sciences,Female,Married,21509,No,2150.9
+52,771,Sales,Life Sciences,Male,Single,21030,Yes,2103.0
+32,1401,Sales,Life Sciences,Female,Married,20990,No,2099.0
+32,515,Research & Development,Life Sciences,Male,Single,9571,Yes,957.1
+39,1431,Research & Development,Medical,Female,Divorced,15417,No,1541.7
+32,976,Sales,Marketing,Male,Married,12069,No,1206.9
+41,1411,Research & Development,Life Sciences,Male,Divorced,19877,No,1987.7
+40,1300,Research & Development,Technical Degree,Male,Divorced,24447,No,2444.7000000000003
+45,252,Research & Development,Other,Male,Married,15970,No,1597.0
+31,1327,Research & Development,Medical,Male,Divorced,13523,No,1352.3000000000002
+33,832,Research & Development,Life Sciences,Female,Married,14776,No,1477.6000000000001
+34,470,Research & Development,Life Sciences,Male,Married,23687,No,2368.7000000000003
+37,1017,Research & Development,Medical,Female,Married,18697,No,1869.7
+45,1199,Research & Development,Life Sciences,Male,Married,5118,No,511.8
+37,504,Research & Development,Medical,Male,Divorced,22573,No,2257.3
+39,505,Research & Development,Technical Degree,Female,Single,6420,No,642.0
+29,665,Research & Development,Life Sciences,Male,Single,22673,No,2267.3
+42,916,Research & Development,Life Sciences,Female,Single,23016,Yes,2301.6
+29,1247,Sales,Marketing,Male,Divorced,10732,No,1073.2
+25,685,Research & Development,Life Sciences,Female,Married,7505,No,750.5
+42,269,Research & Development,Medical,Female,Divorced,8007,Yes,800.7
+40,1416,Research & Development,Medical,Male,Divorced,5949,No,594.9
+51,833,Research & Development,Life Sciences,Male,Married,23231,No,2323.1
+31,307,Research & Development,Medical,Male,Single,11652,No,1165.2
+32,1311,Research & Development,Life Sciences,Male,Married,26062,No,2606.2000000000003
+38,1327,Sales,Life Sciences,Male,Married,19682,No,1968.2
+32,128,Research & Development,Technical Degree,Male,Single,19737,No,1973.7
+46,488,Sales,Technical Degree,Female,Married,14977,Yes,1497.7
+28,529,Research & Development,Life Sciences,Male,Single,14935,No,1493.5
+29,1210,Sales,Medical,Male,Married,3687,No,368.70000000000005
+31,1463,Research & Development,Medical,Male,Married,14408,No,1440.8000000000002
+25,675,Research & Development,Life Sciences,Male,Divorced,18384,No,1838.4
+45,1385,Research & Development,Medical,Male,Married,7501,Yes,750.1
+36,1403,Research & Development,Life Sciences,Male,Married,20251,No,2025.1000000000001
+55,452,Research & Development,Medical,Male,Single,18938,Yes,1893.8000000000002
+47,666,Research & Development,Life Sciences,Male,Married,10268,Yes,1026.8
+28,1158,Research & Development,Medical,Male,Married,2613,No,261.3
+37,228,Sales,Medical,Male,Married,22825,No,2282.5
+21,996,Research & Development,Medical,Male,Single,10531,No,1053.1000000000001
+37,728,Research & Development,Medical,Female,Divorced,11677,Yes,1167.7
+35,1315,Research & Development,Life Sciences,Female,Divorced,19100,No,1910.0
+38,322,Sales,Medical,Female,Divorced,19191,Yes,1919.1000000000001
+26,1479,Research & Development,Life Sciences,Female,Divorced,26767,No,2676.7000000000003
+50,797,Research & Development,Life Sciences,Male,Divorced,15815,No,1581.5
+53,1070,Research & Development,Medical,Male,Married,21016,Yes,2101.6
+42,635,Sales,Life Sciences,Male,Married,24532,No,2453.2000000000003
+29,442,Sales,Life Sciences,Male,Single,20260,No,2026.0
+55,147,Research & Development,Technical Degree,Male,Married,15972,Yes,1597.2
+26,496,Research & Development,Medical,Male,Married,22722,Yes,2272.2000000000003
+37,1372,Research & Development,Life Sciences,Female,Single,15881,No,1588.1000000000001
+44,920,Research & Development,Life Sciences,Male,Divorced,19920,Yes,1992.0
+38,688,Research & Development,Life Sciences,Male,Divorced,18899,No,1889.9
+26,1449,Research & Development,Medical,Male,Divorced,14180,Yes,1418.0
+28,1117,Research & Development,Life Sciences,Female,Single,4488,No,448.8
+49,636,Research & Development,Life Sciences,Female,Single,25594,Yes,2559.4
+36,506,Research & Development,Technical Degree,Male,Single,26285,No,2628.5
+31,444,Sales,Marketing,Female,Divorced,3909,No,390.90000000000003
+26,950,Sales,Marketing,Male,Single,8450,Yes,845.0
+37,889,Research & Development,Medical,Male,Married,11411,Yes,1141.1000000000001
+42,555,Sales,Marketing,Female,Married,14864,No,1486.4
+18,230,Research & Development,Life Sciences,Male,Single,25233,No,2523.3
+35,1232,Sales,Marketing,Male,Married,5100,No,510.0
+36,566,Research & Development,Life Sciences,Male,Married,7122,No,712.2
+51,1302,Research & Development,Medical,Male,Divorced,16321,No,1632.1000000000001
+41,334,Sales,Life Sciences,Male,Single,15896,No,1589.6000000000001
+18,812,Sales,Medical,Female,Single,9724,No,972.4000000000001
+28,1476,Research & Development,Medical,Male,Single,4824,No,482.40000000000003
+31,218,Sales,Technical Degree,Male,Married,12241,No,1224.1000000000001
+39,1132,Research & Development,Medical,Male,Divorced,10942,No,1094.2
+36,1105,Research & Development,Life Sciences,Female,Married,6927,No,692.7
+32,906,Sales,Life Sciences,Male,Married,16985,No,1698.5
+38,849,Research & Development,Life Sciences,Female,Married,26707,No,2670.7000000000003
+58,390,Research & Development,Life Sciences,Male,Divorced,17056,Yes,1705.6000000000001
+31,691,Research & Development,Technical Degree,Male,Married,10077,Yes,1007.7
+31,106,Human Resources,Human Resources,Male,Married,17822,No,1782.2
+45,1249,Research & Development,Life Sciences,Male,Divorced,20308,No,2030.8000000000002
+31,192,Research & Development,Life Sciences,Male,Divorced,7747,Yes,774.7
+33,553,Research & Development,Life Sciences,Female,Married,23364,No,2336.4
+39,117,Research & Development,Medical,Male,Married,5355,Yes,535.5
+43,185,Research & Development,Life Sciences,Female,Single,10675,No,1067.5
+49,1091,Research & Development,Technical Degree,Female,Single,17810,Yes,1781.0
+52,723,Research & Development,Medical,Male,Married,17747,No,1774.7
+27,1220,Research & Development,Life Sciences,Female,Single,20938,Yes,2093.8
+32,588,Sales,Technical Degree,Female,Married,24624,Yes,2462.4
+27,1377,Sales,Life Sciences,Male,Single,5242,Yes,524.2
+31,691,Sales,Marketing,Male,Divorced,7143,No,714.3000000000001
+32,1018,Research & Development,Medical,Female,Single,10557,No,1055.7
+28,1157,Research & Development,Medical,Male,Married,24737,Yes,2473.7000000000003
+30,1275,Research & Development,Medical,Female,Married,11934,No,1193.4
+31,798,Research & Development,Life Sciences,Female,Married,14034,No,1403.4
+39,672,Research & Development,Medical,Male,Married,21141,No,2114.1
+39,1162,Sales,Medical,Female,Married,17778,Yes,1777.8000000000002
+33,508,Sales,Marketing,Male,Single,4317,No,431.70000000000005
+47,1482,Research & Development,Life Sciences,Male,Married,16375,No,1637.5
+43,559,Research & Development,Life Sciences,Female,Divorced,6227,No,622.7
+27,210,Sales,Marketing,Male,Married,22107,Yes,2210.7000000000003
+54,928,Research & Development,Life Sciences,Female,Single,16885,No,1688.5
+43,1001,Research & Development,Life Sciences,Female,Married,9262,No,926.2
+45,549,Research & Development,Other,Male,Married,9278,No,927.8000000000001
+40,1124,Sales,Medical,Male,Married,13273,Yes,1327.3000000000002
+29,318,Research & Development,Other,Male,Married,4759,Yes,475.90000000000003
+29,738,Research & Development,Other,Male,Single,7621,No,762.1
+30,570,Sales,Marketing,Female,Divorced,5431,No,543.1
+27,1130,Sales,Marketing,Female,Married,3415,No,341.5
+37,1192,Research & Development,Medical,Male,Divorced,23177,No,2317.7000000000003
+38,343,Research & Development,Life Sciences,Male,Divorced,15682,Yes,1568.2
+31,1232,Research & Development,Medical,Female,Single,25713,Yes,2571.3
+29,144,Sales,Marketing,Female,Divorced,11866,Yes,1186.6000000000001
+35,1296,Research & Development,Technical Degree,Male,Single,18264,No,1826.4
+23,1309,Research & Development,Life Sciences,Male,Divorced,16092,No,1609.2
+41,483,Research & Development,Medical,Male,Single,10110,Yes,1011.0
+47,1309,Sales,Medical,Male,Single,25751,No,2575.1000000000004
+42,810,Research & Development,Life Sciences,Female,Single,15901,No,1590.1000000000001
+29,746,Sales,Life Sciences,Male,Married,16928,No,1692.8000000000002
+42,544,Human Resources,Technical Degree,Male,Divorced,24017,Yes,2401.7000000000003
+32,1062,Research & Development,Medical,Female,Married,3956,No,395.6
+48,530,Sales,Medical,Female,Married,23978,No,2397.8
+37,1319,Research & Development,Medical,Male,Divorced,17001,Yes,1700.1000000000001
+30,641,Sales,Technical Degree,Female,Married,6069,Yes,606.9
+26,933,Sales,Life Sciences,Male,Married,20156,No,2015.6000000000001
+42,1332,Research & Development,Other,Male,Single,17078,No,1707.8000000000002
+21,756,Sales,Technical Degree,Female,Single,9150,Yes,915.0
+36,845,Sales,Medical,Female,Single,15276,No,1527.6000000000001
+36,541,Sales,Medical,Male,Married,7246,No,724.6
+57,593,Research & Development,Medical,Male,Married,2967,No,296.7
+40,1171,Research & Development,Life Sciences,Female,Married,22495,Yes,2249.5
+21,895,Sales,Medical,Male,Single,2851,No,285.1
+33,350,Sales,Marketing,Female,Single,9150,Yes,915.0
+37,921,Research & Development,Medical,Female,Married,17663,No,1766.3000000000002
+46,1144,Research & Development,Medical,Female,Married,16044,No,1604.4
+41,143,Sales,Marketing,Male,Single,9558,No,955.8000000000001
+50,1046,Research & Development,Technical Degree,Male,Single,2755,No,275.5
+40,575,Sales,Marketing,Male,Married,6110,Yes,611.0
+31,408,Research & Development,Life Sciences,Male,Single,7551,Yes,755.1
+21,156,Sales,Life Sciences,Female,Single,25422,No,2542.2000000000003
+29,1283,Research & Development,Life Sciences,Male,Single,18168,No,1816.8000000000002
+35,755,Research & Development,Life Sciences,Male,Single,19394,No,1939.4
+27,1469,Research & Development,Medical,Male,Divorced,17881,No,1788.1000000000001
+28,304,Sales,Life Sciences,Male,Single,20750,No,2075.0
+49,1261,Research & Development,Other,Male,Single,12066,No,1206.6000000000001
+51,1178,Sales,Life Sciences,Female,Married,14862,No,1486.2
+36,329,Research & Development,Life Sciences,Female,Married,11868,No,1186.8
+34,1362,Sales,Marketing,Male,Single,4652,Yes,465.20000000000005
+55,1311,Research & Development,Life Sciences,Female,Single,23258,Yes,2325.8
+24,1371,Sales,Marketing,Female,Divorced,5915,Yes,591.5
+30,202,Sales,Technical Degree,Male,Married,17434,No,1743.4
+26,575,Research & Development,Technical Degree,Male,Single,6582,No,658.2
+22,253,Research & Development,Medical,Female,Married,24440,No,2444.0
+36,164,Sales,Medical,Male,Married,3809,No,380.90000000000003
+30,464,Research & Development,Technical Degree,Male,Single,3427,Yes,342.70000000000005
+37,1107,Research & Development,Life Sciences,Female,Divorced,26914,No,2691.4
+40,759,Sales,Marketing,Female,Divorced,22553,No,2255.3
+42,201,Research & Development,Life Sciences,Female,Divorced,20490,No,2049.0
+37,1305,Research & Development,Life Sciences,Male,Single,21123,Yes,2112.3
+43,982,Research & Development,Life Sciences,Male,Divorced,4345,No,434.5
+40,555,Research & Development,Medical,Female,Married,13436,No,1343.6000000000001
+54,821,Research & Development,Medical,Male,Married,8509,No,850.9000000000001
+34,1381,Sales,Marketing,Female,Married,12740,No,1274.0
+31,480,Research & Development,Medical,Female,Married,4156,No,415.6
+43,313,Research & Development,Medical,Male,Married,15238,No,1523.8000000000002
+43,1473,Research & Development,Other,Female,Divorced,2227,Yes,222.70000000000002
+25,891,Sales,Life Sciences,Female,Single,12090,Yes,1209.0
+37,1063,Research & Development,Medical,Female,Married,23866,Yes,2386.6
+31,329,Research & Development,Life Sciences,Male,Married,16193,No,1619.3000000000002
+39,1218,Research & Development,Life Sciences,Male,Divorced,8213,Yes,821.3000000000001
+56,906,Sales,Life Sciences,Female,Married,18256,No,1825.6000000000001
+30,1082,Sales,Technical Degree,Female,Single,19558,No,1955.8000000000002
+41,645,Sales,Marketing,Male,Married,19566,No,1956.6000000000001
+28,1300,Research & Development,Medical,Male,Divorced,13535,No,1353.5
+25,688,Research & Development,Medical,Male,Married,9396,No,939.6
+52,319,Research & Development,Medical,Male,Married,19609,Yes,1960.9
+45,192,Research & Development,Life Sciences,Male,Married,9655,No,965.5
+52,1490,Research & Development,Life Sciences,Female,Married,10310,No,1031.0
+42,532,Research & Development,Life Sciences,Female,Divorced,12932,No,1293.2
+30,317,Research & Development,Life Sciences,Female,Single,24793,No,2479.3
+60,422,Research & Development,Life Sciences,Female,Married,3854,No,385.40000000000003
+46,1485,Research & Development,Medical,Female,Divorced,26314,No,2631.4
+42,1368,Research & Development,Technical Degree,Female,Married,4386,No,438.6
+24,1448,Sales,Technical Degree,Female,Single,21972,Yes,2197.2000000000003
+34,296,Sales,Marketing,Female,Divorced,12253,No,1225.3
+38,1490,Research & Development,Life Sciences,Male,Married,12106,Yes,1210.6000000000001
+40,1398,Sales,Life Sciences,Female,Married,13022,No,1302.2
+26,1349,Research & Development,Life Sciences,Female,Divorced,3032,No,303.2
+30,1400,Research & Development,Life Sciences,Male,Married,16734,No,1673.4
+29,986,Research & Development,Medical,Male,Married,21526,No,2152.6
+29,408,Research & Development,Technical Degree,Female,Married,18300,No,1830.0
+19,489,Human Resources,Technical Degree,Male,Single,18437,No,1843.7
+30,1398,Sales,Other,Female,Married,2890,No,289.0
+57,210,Sales,Marketing,Male,Divorced,22102,No,2210.2000000000003
+50,1099,Research & Development,Life Sciences,Male,Married,9314,No,931.4000000000001
+30,1116,Research & Development,Medical,Female,Single,7181,No,718.1
+60,1499,Sales,Marketing,Female,Married,2845,No,284.5
+47,983,Research & Development,Medical,Female,Divorced,7389,No,738.9000000000001
+46,1009,Research & Development,Life Sciences,Male,Married,2288,No,228.8
+35,144,Research & Development,Life Sciences,Male,Single,19225,No,1922.5
+54,548,Research & Development,Life Sciences,Female,Single,23428,No,2342.8
+34,1303,Research & Development,Life Sciences,Male,Divorced,8416,No,841.6
+46,1125,Sales,Marketing,Female,Married,11563,Yes,1156.3
+31,1274,Research & Development,Life Sciences,Male,Divorced,14394,No,1439.4
+33,1277,Research & Development,Medical,Male,Married,24619,Yes,2461.9
+33,587,Research & Development,Medical,Male,Divorced,6705,No,670.5
+30,413,Sales,Marketing,Male,Single,18398,No,1839.8000000000002
+35,1276,Research & Development,Life Sciences,Male,Married,14295,Yes,1429.5
+31,534,Research & Development,Life Sciences,Male,Married,22908,No,2290.8
+34,988,Human Resources,Human Resources,Female,Divorced,11533,Yes,1153.3
+42,1474,Research & Development,Other,Male,Married,9260,No,926.0
+36,635,Sales,Medical,Male,Single,15318,No,1531.8000000000002
+22,1368,Research & Development,Technical Degree,Male,Single,9129,No,912.9000000000001
+48,163,Sales,Marketing,Female,Married,19658,No,1965.8000000000002
+55,1117,Sales,Life Sciences,Female,Single,9873,No,987.3000000000001
+41,267,Sales,Life Sciences,Male,Single,13430,No,1343.0
+35,619,Sales,Marketing,Male,Married,18659,No,1865.9
+40,302,Research & Development,Life Sciences,Female,Single,20364,No,2036.4
+39,443,Research & Development,Life Sciences,Female,Married,17872,No,1787.2
+31,828,Sales,Life Sciences,Male,Single,8346,Yes,834.6
+42,319,Research & Development,Medical,Male,Married,6950,Yes,695.0
+45,561,Sales,Other,Male,Married,16177,No,1617.7
+26,426,Human Resources,Life Sciences,Female,Divorced,22808,Yes,2280.8
+29,232,Research & Development,Technical Degree,Male,Divorced,22645,No,2264.5
+33,922,Research & Development,Medical,Female,Divorced,22578,No,2257.8
+31,688,Sales,Life Sciences,Male,Divorced,25291,No,2529.1000000000004
+18,1306,Sales,Marketing,Male,Single,8059,Yes,805.9000000000001
+40,1094,Sales,Other,Male,Divorced,11373,No,1137.3
+41,509,Research & Development,Other,Female,Single,2112,Yes,211.20000000000002
+26,775,Sales,Medical,Male,Divorced,4267,No,426.70000000000005
+35,195,Sales,Medical,Female,Single,6698,No,669.8000000000001
+34,258,Sales,Life Sciences,Male,Single,19921,No,1992.1000000000001
+26,471,Research & Development,Technical Degree,Male,Single,23213,Yes,2321.3
+37,799,Research & Development,Technical Degree,Female,Single,23848,No,2384.8
+46,1034,Research & Development,Medical,Female,Married,8984,No,898.4000000000001
+41,1276,Sales,Life Sciences,Female,Married,5626,No,562.6
+37,142,Sales,Medical,Male,Divorced,24666,No,2466.6000000000004
+52,956,Research & Development,Technical Degree,Male,Divorced,22087,Yes,2208.7000000000003
+32,1474,Sales,Other,Male,Married,23914,No,2391.4
+24,535,Sales,Medical,Male,Married,5530,No,553.0
+38,1495,Research & Development,Medical,Female,Married,22174,No,2217.4
+37,446,Research & Development,Life Sciences,Female,Married,15701,No,1570.1000000000001
+49,1245,Research & Development,Life Sciences,Male,Divorced,2125,Yes,212.5
+24,691,Research & Development,Medical,Male,Married,21630,Yes,2163.0
+26,703,Sales,Marketing,Male,Married,7428,No,742.8000000000001
+24,823,Research & Development,Other,Male,Married,9100,No,910.0
+50,1246,Human Resources,Medical,Male,Married,7999,No,799.9000000000001
+25,622,Sales,Medical,Male,Married,26376,No,2637.6000000000004
+24,1287,Research & Development,Life Sciences,Female,Married,14168,Yes,1416.8000000000002
+30,448,Sales,Life Sciences,Male,Married,14470,No,1447.0
+34,254,Research & Development,Life Sciences,Male,Married,22794,Yes,2279.4
+31,1365,Sales,Medical,Male,Divorced,11512,No,1151.2
+35,538,Research & Development,Other,Male,Single,14004,No,1400.4
+31,525,Sales,Medical,Male,Divorced,6219,No,621.9000000000001
+27,798,Research & Development,Medical,Female,Divorced,5013,No,501.3
+37,558,Sales,Marketing,Male,Married,3010,Yes,301.0
+20,959,Research & Development,Life Sciences,Female,Single,11757,No,1175.7
+42,622,Research & Development,Life Sciences,Female,Married,5718,No,571.8000000000001
+43,782,Research & Development,Other,Male,Divorced,2671,Yes,267.1
+38,362,Research & Development,Life Sciences,Female,Single,14561,No,1456.1000000000001
+43,1001,Research & Development,Medical,Male,Divorced,19627,Yes,1962.7
+48,1236,Research & Development,Life Sciences,Female,Married,17997,No,1799.7
+44,1112,Human Resources,Life Sciences,Female,Single,26894,No,2689.4
+34,204,Sales,Technical Degree,Female,Divorced,2912,Yes,291.2
+27,1420,Sales,Marketing,Male,Divorced,16346,No,1634.6000000000001
+21,1343,Sales,Technical Degree,Male,Single,24444,No,2444.4
+44,1315,Research & Development,Other,Male,Married,9358,Yes,935.8000000000001
+22,604,Research & Development,Medical,Male,Married,12145,No,1214.5
+33,1216,Sales,Marketing,Male,Divorced,20431,No,2043.1000000000001
+32,646,Research & Development,Life Sciences,Female,Married,18089,Yes,1808.9
+30,160,Research & Development,Medical,Female,Divorced,22653,No,2265.3
+53,238,Sales,Medical,Female,Single,7507,No,750.7
+34,1397,Research & Development,Life Sciences,Male,Married,7660,No,766.0
+45,306,Sales,Life Sciences,Female,Married,5630,No,563.0
+26,991,Research & Development,Life Sciences,Female,Married,17759,Yes,1775.9
+37,482,Research & Development,Other,Male,Married,9606,No,960.6
+29,1176,Sales,Medical,Female,Married,3487,No,348.70000000000005
+35,1017,Research & Development,Life Sciences,Male,Single,19368,No,1936.8000000000002
+33,1296,Research & Development,Life Sciences,Male,Divorced,5335,No,533.5
+54,397,Human Resources,Medical,Male,Married,6729,No,672.9000000000001
+36,913,Research & Development,Medical,Male,Divorced,13934,Yes,1393.4
+27,1115,Research & Development,Medical,Male,Single,15174,No,1517.4
+20,1362,Research & Development,Medical,Male,Single,26999,Yes,2699.9
+33,1076,Research & Development,Life Sciences,Male,Single,3164,Yes,316.40000000000003
+35,727,Research & Development,Life Sciences,Male,Married,16900,No,1690.0
+23,885,Research & Development,Medical,Male,Married,8544,No,854.4000000000001
+25,810,Sales,Life Sciences,Male,Married,15678,No,1567.8000000000002
+38,243,Sales,Marketing,Female,Single,7791,No,779.1
+29,806,Research & Development,Life Sciences,Male,Divorced,18959,No,1895.9
+48,817,Sales,Marketing,Male,Married,18597,No,1859.7
+27,1410,Sales,Medical,Female,Divorced,16673,Yes,1667.3000000000002
+37,1225,Research & Development,Life Sciences,Male,Single,15232,No,1523.2
+50,1207,Research & Development,Medical,Male,Married,3297,Yes,329.70000000000005
+34,1442,Research & Development,Medical,Female,Single,17654,No,1765.4
+24,693,Sales,Life Sciences,Female,Single,24785,No,2478.5
+39,408,Research & Development,Technical Degree,Female,Single,20978,No,2097.8
+32,929,Sales,Marketing,Male,Single,21703,No,2170.3
+50,562,Sales,Technical Degree,Male,Married,23452,Yes,2345.2000000000003
+38,827,Research & Development,Life Sciences,Female,Single,19383,No,1938.3000000000002
+27,608,Research & Development,Life Sciences,Female,Married,6009,No,600.9
+32,1018,Research & Development,Life Sciences,Female,Single,19373,No,1937.3000000000002
+47,703,Sales,Marketing,Male,Single,11825,No,1182.5
+40,580,Sales,Life Sciences,Male,Married,23772,Yes,2377.2000000000003
+53,970,Research & Development,Life Sciences,Male,Married,13514,No,1351.4
+41,427,Human Resources,Human Resources,Male,Divorced,8861,No,886.1
+60,1179,Sales,Marketing,Male,Single,11924,No,1192.4
+27,294,Research & Development,Life Sciences,Male,Divorced,4809,No,480.90000000000003
+41,314,Human Resources,Human Resources,Male,Married,19562,No,1956.2
+50,316,Sales,Marketing,Male,Married,9983,No,998.3000000000001
+28,654,Research & Development,Life Sciences,Female,Single,3872,Yes,387.20000000000005
+36,427,Research & Development,Life Sciences,Female,Married,20335,No,2033.5
+38,168,Research & Development,Life Sciences,Female,Single,15397,Yes,1539.7
+44,381,Research & Development,Medical,Male,Single,2104,No,210.4
+47,217,Sales,Medical,Female,Divorced,10225,Yes,1022.5
+30,501,Sales,Marketing,Male,Divorced,25275,No,2527.5
+29,1396,Sales,Life Sciences,Male,Single,2755,No,275.5
+42,933,Research & Development,Medical,Male,Divorced,20366,Yes,2036.6000000000001
+43,775,Sales,Life Sciences,Male,Married,23683,No,2368.3
+34,970,Research & Development,Medical,Female,Single,7360,No,736.0
+23,650,Research & Development,Medical,Male,Married,4344,No,434.40000000000003
+39,141,Human Resources,Human Resources,Female,Married,18767,No,1876.7
+56,832,Research & Development,Medical,Male,Married,20420,No,2042.0
+40,804,Research & Development,Medical,Female,Single,22929,Yes,2292.9
+27,975,Research & Development,Medical,Female,Single,23398,No,2339.8
+29,1090,Sales,Marketing,Male,Divorced,17967,No,1796.7
+53,346,Research & Development,Life Sciences,Male,Single,10919,No,1091.9
+35,1225,Research & Development,Life Sciences,Female,Divorced,4761,No,476.1
+32,430,Research & Development,Life Sciences,Male,Married,21146,No,2114.6
+38,268,Research & Development,Medical,Male,Married,20471,Yes,2047.1000000000001
+34,167,Research & Development,Life Sciences,Female,Divorced,4187,No,418.70000000000005
+52,621,Sales,Marketing,Male,Married,10084,No,1008.4000000000001
+33,527,Research & Development,Other,Male,Single,5207,Yes,520.7
+25,883,Sales,Medical,Female,Single,22807,No,2280.7000000000003
+45,954,Sales,Technical Degree,Male,Single,12388,No,1238.8000000000002
+23,310,Research & Development,Medical,Male,Single,19630,No,1963.0
+47,719,Sales,Life Sciences,Female,Single,10339,Yes,1033.9
+34,304,Sales,Other,Male,Single,18686,No,1868.6000000000001
+55,725,Research & Development,Medical,Male,Married,21199,Yes,2119.9
+36,1434,Sales,Life Sciences,Male,Single,14229,No,1422.9
+52,715,Research & Development,Medical,Male,Married,26589,No,2658.9
+26,575,Research & Development,Life Sciences,Female,Divorced,5288,No,528.8000000000001
+29,657,Research & Development,Medical,Female,Married,25549,No,2554.9
+26,1146,Sales,Technical Degree,Male,Single,3064,No,306.40000000000003
+34,182,Research & Development,Life Sciences,Female,Single,13551,No,1355.1000000000001
+54,376,Research & Development,Medical,Female,Divorced,22670,Yes,2267.0
+27,829,Sales,Marketing,Male,Married,24008,No,2400.8
+37,571,Research & Development,Life Sciences,Female,Divorced,19905,Yes,1990.5
+38,240,Research & Development,Life Sciences,Female,Single,26085,Yes,2608.5
+34,121,Research & Development,Medical,Female,Single,7530,No,753.0
+35,384,Sales,Life Sciences,Female,Married,20317,No,2031.7
+30,921,Research & Development,Life Sciences,Male,Married,24375,No,2437.5
+40,791,Research & Development,Medical,Female,Married,9931,No,993.1
+34,1111,Sales,Life Sciences,Female,Married,13305,No,1330.5
+42,570,Research & Development,Life Sciences,Male,Divorced,16225,No,1622.5
+23,1243,Research & Development,Life Sciences,Male,Married,3445,Yes,344.5
+24,1092,Research & Development,Life Sciences,Male,Divorced,26551,No,2655.1000000000004
+52,1325,Research & Development,Life Sciences,Female,Married,21821,No,2182.1
+50,691,Research & Development,Medical,Male,Married,6881,No,688.1
+29,805,Research & Development,Life Sciences,Female,Married,6689,Yes,668.9000000000001
+33,213,Research & Development,Medical,Male,Married,25995,No,2599.5
+33,118,Sales,Marketing,Female,Single,26507,No,2650.7000000000003
+47,202,Research & Development,Other,Female,Married,12982,Yes,1298.2
+36,676,Research & Development,Other,Female,Married,23361,No,2336.1
+29,1252,Research & Development,Life Sciences,Male,Married,23779,No,2377.9
+58,286,Research & Development,Life Sciences,Male,Single,25761,Yes,2576.1000000000004
+35,1258,Research & Development,Life Sciences,Female,Single,13301,No,1330.1000000000001
+42,932,Research & Development,Life Sciences,Female,Married,4051,Yes,405.1
+28,890,Research & Development,Medical,Male,Single,16374,No,1637.4
+36,1041,Human Resources,Human Resources,Male,Married,25527,No,2552.7000000000003
+32,859,Research & Development,Life Sciences,Female,Married,19124,No,1912.4
+40,720,Research & Development,Medical,Male,Single,11983,No,1198.3
+30,946,Research & Development,Medical,Female,Single,20234,Yes,2023.4
+45,252,Research & Development,Life Sciences,Female,Single,6153,No,615.3000000000001
+42,933,Research & Development,Life Sciences,Male,Married,11806,No,1180.6000000000001
+38,471,Research & Development,Life Sciences,Male,Divorced,4284,No,428.40000000000003
+34,702,Research & Development,Life Sciences,Female,Single,8306,No,830.6
+49,1184,Sales,Marketing,Female,Married,5860,No,586.0
+55,436,Sales,Medical,Male,Single,21519,No,2151.9
+43,589,Research & Development,Life Sciences,Male,Married,5200,No,520.0
+27,269,Research & Development,Technical Degree,Male,Divorced,8842,Yes,884.2
+35,950,Research & Development,Other,Male,Single,18869,No,1886.9
+28,760,Sales,Marketing,Female,Married,3698,Yes,369.8
+34,829,Human Resources,Human Resources,Male,Married,2243,No,224.3
+26,887,Research & Development,Medical,Female,Married,20898,Yes,2089.8
+27,443,Research & Development,Medical,Male,Married,16571,No,1657.1000000000001
+51,1318,Sales,Marketing,Female,Married,5594,No,559.4
+44,625,Research & Development,Medical,Male,Single,5197,No,519.7
+25,180,Research & Development,Medical,Male,Single,21632,No,2163.2000000000003
+33,586,Sales,Medical,Male,Divorced,21816,No,2181.6
+35,1343,Research & Development,Medical,Female,Single,17852,No,1785.2
+36,928,Sales,Life Sciences,Male,Married,2823,Yes,282.3
+32,117,Sales,Life Sciences,Male,Divorced,9250,No,925.0
+30,1012,Research & Development,Life Sciences,Male,Divorced,2373,No,237.3
+53,661,Sales,Marketing,Female,Married,20715,Yes,2071.5
+45,930,Sales,Marketing,Male,Divorced,19239,Yes,1923.9
+32,638,Research & Development,Medical,Female,Married,22162,No,2216.2000000000003
+52,890,Research & Development,Medical,Female,Married,19028,No,1902.8000000000002
+37,342,Sales,Marketing,Male,Divorced,24558,No,2455.8
+28,1169,Human Resources,Medical,Male,Divorced,23965,No,2396.5
+22,1230,Research & Development,Life Sciences,Male,Married,19146,No,1914.6000000000001
+44,986,Research & Development,Life Sciences,Male,Married,5044,Yes,504.40000000000003
+42,1271,Research & Development,Medical,Male,Single,9068,Yes,906.8000000000001
+36,1278,Human Resources,Life Sciences,Male,Married,8635,No,863.5
+25,141,Sales,Other,Male,Married,14363,Yes,1436.3000000000002
+35,607,Research & Development,Life Sciences,Female,Married,23457,Yes,2345.7000000000003
+35,130,Research & Development,Life Sciences,Female,Divorced,16612,Yes,1661.2
+32,300,Research & Development,Life Sciences,Male,Divorced,9148,No,914.8000000000001
+25,583,Sales,Marketing,Male,Married,18154,No,1815.4
+49,1418,Research & Development,Technical Degree,Female,Married,10554,No,1055.4
+24,1269,Research & Development,Life Sciences,Male,Married,10778,No,1077.8
+32,379,Sales,Life Sciences,Male,Married,8891,No,889.1
+38,395,Sales,Marketing,Male,Married,12102,No,1210.2
+42,1265,Research & Development,Life Sciences,Female,Married,23726,Yes,2372.6
+31,1222,Research & Development,Life Sciences,Male,Married,14871,Yes,1487.1000000000001
+29,341,Sales,Medical,Female,Divorced,23522,Yes,2352.2000000000003
+53,868,Sales,Marketing,Male,Married,22789,No,2278.9
+35,672,Research & Development,Technical Degree,Male,Married,9129,No,912.9000000000001
+37,1231,Sales,Medical,Female,Married,21222,No,2122.2000000000003
+53,102,Research & Development,Life Sciences,Female,Single,20206,No,2020.6000000000001
+43,422,Research & Development,Life Sciences,Female,Married,21782,No,2178.2000000000003
+47,249,Sales,Marketing,Female,Married,17783,Yes,1778.3000000000002
+37,1252,Sales,Medical,Male,Single,4814,Yes,481.40000000000003
+50,881,Research & Development,Life Sciences,Male,Divorced,4544,No,454.40000000000003
+39,1383,Human Resources,Life Sciences,Female,Married,7790,No,779.0
+33,1075,Human Resources,Human Resources,Male,Divorced,22650,Yes,2265.0
+32,374,Research & Development,Life Sciences,Male,Single,18016,Yes,1801.6000000000001
+29,1086,Research & Development,Medical,Female,Divorced,6054,No,605.4
+44,661,Research & Development,Life Sciences,Male,Married,7508,Yes,750.8000000000001
+28,821,Sales,Medical,Male,Single,24252,No,2425.2000000000003
+58,781,Research & Development,Life Sciences,Male,Divorced,13384,Yes,1338.4
+43,177,Research & Development,Life Sciences,Female,Divorced,23814,No,2381.4
+20,500,Sales,Medical,Female,Single,22052,No,2205.2000000000003
+21,1427,Research & Development,Other,Female,Single,8870,No,887.0
+36,1425,Research & Development,Life Sciences,Male,Married,4821,Yes,482.1
+47,1454,Sales,Life Sciences,Female,Single,13137,Yes,1313.7
+22,617,Research & Development,Life Sciences,Female,Married,10022,Yes,1002.2
+41,1085,Research & Development,Life Sciences,Female,Divorced,17725,Yes,1772.5
+28,995,Research & Development,Medical,Female,Divorced,9834,No,983.4000000000001
+39,1122,Research & Development,Medical,Male,Married,4303,Yes,430.3
+27,618,Research & Development,Life Sciences,Female,Single,17808,No,1780.8000000000002
+34,546,Research & Development,Life Sciences,Male,Divorced,6896,No,689.6
+42,462,Sales,Medical,Female,Single,7824,No,782.4000000000001
+33,1198,Research & Development,Other,Male,Single,3339,Yes,333.90000000000003
+58,1272,Research & Development,Technical Degree,Female,Divorced,9255,Yes,925.5
+31,154,Sales,Life Sciences,Male,Married,11737,No,1173.7
+35,1137,Research & Development,Life Sciences,Female,Married,19170,Yes,1917.0
+49,527,Research & Development,Other,Female,Married,22477,No,2247.7000000000003
+48,1469,Research & Development,Medical,Male,Married,5543,No,554.3000000000001
+31,1188,Sales,Marketing,Female,Married,24406,No,2440.6
+36,188,Research & Development,Other,Male,Single,23293,No,2329.3
+38,1333,Research & Development,Technical Degree,Female,Married,16292,No,1629.2
+32,1184,Research & Development,Life Sciences,Female,Married,3974,No,397.40000000000003
+25,867,Sales,Marketing,Male,Married,18798,Yes,1879.8000000000002
+40,658,Sales,Marketing,Male,Divorced,20652,No,2065.2000000000003
+26,1283,Sales,Medical,Male,Single,11148,No,1114.8
+41,263,Research & Development,Medical,Male,Single,3119,Yes,311.90000000000003
+36,938,Research & Development,Medical,Male,Single,12287,No,1228.7
+19,419,Sales,Other,Male,Single,9947,Yes,994.7
+20,129,Research & Development,Technical Degree,Male,Single,13008,No,1300.8000000000002
+31,616,Research & Development,Medical,Female,Married,17369,Yes,1736.9
+40,1469,Research & Development,Medical,Male,Divorced,25063,Yes,2506.3
+32,498,Research & Development,Medical,Female,Married,13554,No,1355.4
+36,530,Sales,Life Sciences,Male,Married,5518,Yes,551.8000000000001
+33,1069,Research & Development,Life Sciences,Female,Single,12291,No,1229.1000000000001
+37,625,Sales,Life Sciences,Male,Married,14922,No,1492.2
+45,805,Research & Development,Life Sciences,Male,Married,23163,No,2316.3
+29,1404,Sales,Technical Degree,Female,Married,18203,No,1820.3000000000002
+35,1219,Sales,Medical,Female,Married,6179,No,617.9000000000001
+52,1053,Research & Development,Life Sciences,Male,Married,13829,No,1382.9
+58,289,Research & Development,Technical Degree,Male,Single,26227,No,2622.7000000000003
+53,1376,Sales,Medical,Male,Divorced,13938,No,1393.8000000000002
+30,231,Sales,Other,Male,Divorced,9977,No,997.7
+38,152,Sales,Technical Degree,Female,Single,19899,Yes,1989.9
+35,882,Sales,Life Sciences,Male,Divorced,6812,No,681.2
+39,903,Sales,Life Sciences,Male,Single,2560,No,256.0
+40,1479,Sales,Life Sciences,Female,Single,17071,Yes,1707.1000000000001
+47,1379,Research & Development,Medical,Male,Divorced,6759,Yes,675.9000000000001
+36,1229,Sales,Technical Degree,Male,Divorced,25952,No,2595.2000000000003
+31,335,Research & Development,Medical,Male,Single,10322,Yes,1032.2
+33,722,Sales,Life Sciences,Male,Single,20489,No,2048.9
+29,906,Research & Development,Life Sciences,Female,Single,11479,Yes,1147.9
+33,461,Research & Development,Life Sciences,Female,Single,17241,No,1724.1000000000001
+45,974,Research & Development,Medical,Female,Divorced,11005,No,1100.5
+50,1126,Research & Development,Medical,Male,Divorced,6615,No,661.5
+33,827,Research & Development,Other,Female,Married,20161,Yes,2016.1000000000001
+41,840,Research & Development,Medical,Male,Divorced,3735,No,373.5
+27,1134,Research & Development,Technical Degree,Female,Married,12086,No,1208.6000000000001
+45,248,Research & Development,Life Sciences,Male,Married,14039,Yes,1403.9
+47,955,Sales,Life Sciences,Female,Single,8571,Yes,857.1
+30,138,Research & Development,Life Sciences,Female,Married,11539,Yes,1153.9
+50,939,Research & Development,Life Sciences,Male,Married,4161,Yes,416.1
+38,1391,Research & Development,Medical,Male,Married,12127,No,1212.7
+46,566,Research & Development,Medical,Male,Divorced,24208,No,2420.8
+24,1206,Research & Development,Medical,Female,Divorced,24117,No,2411.7000000000003
+35,622,Research & Development,Other,Male,Divorced,10074,Yes,1007.4000000000001
+31,853,Research & Development,Life Sciences,Female,Married,11275,No,1127.5
+18,287,Research & Development,Life Sciences,Male,Single,13493,No,1349.3000000000002
+54,1441,Research & Development,Technical Degree,Female,Married,13943,No,1394.3000000000002
+35,583,Research & Development,Medical,Female,Divorced,6975,Yes,697.5
+30,153,Research & Development,Life Sciences,Female,Married,17802,Yes,1780.2
+20,1097,Research & Development,Medical,Female,Single,18275,Yes,1827.5
+30,109,Research & Development,Medical,Female,Single,25725,No,2572.5
+26,1066,Research & Development,Medical,Male,Married,3334,No,333.40000000000003
+22,217,Research & Development,Life Sciences,Male,Married,6881,No,688.1
+48,277,Research & Development,Life Sciences,Male,Single,13119,No,1311.9
+48,1355,Research & Development,Life Sciences,Male,Single,22245,No,2224.5
+41,549,Research & Development,Medical,Female,Single,23371,No,2337.1
+39,466,Research & Development,Life Sciences,Female,Married,7060,No,706.0
+27,1055,Research & Development,Life Sciences,Female,Married,4658,No,465.8
+35,802,Research & Development,Other,Male,Divorced,9541,No,954.1
+42,265,Sales,Marketing,Male,Married,7770,No,777.0
+50,804,Research & Development,Life Sciences,Male,Married,20165,No,2016.5
+59,715,Research & Development,Life Sciences,Female,Single,21829,Yes,2182.9
+37,1141,Research & Development,Medical,Female,Married,14382,No,1438.2
+55,135,Research & Development,Medical,Male,Married,12992,Yes,1299.2
+41,247,Research & Development,Life Sciences,Female,Divorced,20284,No,2028.4
+38,1035,Sales,Life Sciences,Male,Single,4981,Yes,498.1
+26,265,Sales,Medical,Male,Single,21813,No,2181.3
+52,266,Sales,Marketing,Female,Married,25846,No,2584.6000000000004
+44,1448,Sales,Medical,Female,Married,11737,Yes,1173.7
+50,145,Sales,Life Sciences,Female,Married,24920,No,2492.0
+36,885,Research & Development,Life Sciences,Female,Single,8269,No,826.9000000000001
+39,945,Research & Development,Medical,Female,Single,5083,Yes,508.3
+33,1038,Sales,Life Sciences,Female,Single,21437,No,2143.7000000000003
+45,1234,Sales,Life Sciences,Female,Married,5404,No,540.4
+32,1109,Research & Development,Medical,Female,Single,11135,No,1113.5
+34,216,Sales,Marketing,Male,Divorced,12278,No,1227.8
+59,1089,Sales,Technical Degree,Male,Married,11038,Yes,1103.8
+45,788,Human Resources,Medical,Male,Single,8318,No,831.8000000000001
+53,124,Sales,Marketing,Female,Married,23537,No,2353.7000000000003
+36,660,Research & Development,Other,Male,Divorced,7858,No,785.8000000000001
+26,342,Research & Development,Life Sciences,Male,Married,15346,Yes,1534.6000000000001
+34,1333,Sales,Life Sciences,Female,Married,18410,Yes,1841.0
+28,1144,Sales,Medical,Male,Married,23384,No,2338.4
+38,1186,Research & Development,Other,Male,Married,2997,No,299.7
+50,1464,Research & Development,Medical,Male,Married,12853,Yes,1285.3000000000002
+37,124,Research & Development,Other,Female,Single,13848,No,1384.8000000000002
+40,300,Sales,Marketing,Male,Married,22217,No,2221.7000000000003
+26,921,Research & Development,Medical,Female,Divorced,25265,No,2526.5
+46,430,Research & Development,Medical,Male,Divorced,21445,No,2144.5
+54,1082,Sales,Life Sciences,Female,Married,8392,No,839.2
+56,1240,Research & Development,Medical,Female,Married,12154,No,1215.4
+36,796,Research & Development,Medical,Female,Single,15669,No,1566.9
+55,444,Research & Development,Medical,Male,Single,17323,No,1732.3000000000002
+43,415,Sales,Medical,Male,Divorced,5268,No,526.8000000000001
+20,769,Sales,Marketing,Female,Single,17205,Yes,1720.5
+21,1334,Research & Development,Life Sciences,Female,Single,17258,No,1725.8000000000002
+46,1003,Research & Development,Life Sciences,Female,Divorced,21029,Yes,2102.9
+51,1323,Research & Development,Life Sciences,Male,Married,10332,Yes,1033.2
+28,1366,Research & Development,Technical Degree,Male,Single,12355,No,1235.5
+26,192,Research & Development,Medical,Male,Married,11141,No,1114.1000000000001
+30,1176,Research & Development,Other,Male,Married,9096,No,909.6
+41,509,Research & Development,Technical Degree,Female,Married,18863,No,1886.3000000000002
+38,330,Research & Development,Life Sciences,Female,Married,24608,No,2460.8
+40,1492,Research & Development,Technical Degree,Male,Married,26542,No,2654.2000000000003
+27,1277,Research & Development,Life Sciences,Male,Married,5869,No,586.9
+55,1091,Research & Development,Life Sciences,Male,Married,15813,No,1581.3000000000002
+28,857,Research & Development,Other,Female,Single,7909,No,790.9000000000001
+44,1376,Human Resources,Medical,Male,Married,2326,No,232.60000000000002
+33,654,Research & Development,Life Sciences,Male,Divorced,21214,No,2121.4
+35,1204,Sales,Technical Degree,Male,Single,10333,Yes,1033.3
+33,827,Research & Development,Medical,Female,Single,3129,No,312.90000000000003
+28,895,Research & Development,Life Sciences,Male,Divorced,22482,No,2248.2000000000003
+34,618,Research & Development,Life Sciences,Male,Single,22266,No,2226.6
+37,309,Sales,Life Sciences,Female,Divorced,24223,Yes,2422.3
+25,1219,Research & Development,Technical Degree,Male,Married,4605,Yes,460.5
+26,1330,Research & Development,Medical,Male,Divorced,19373,No,1937.3000000000002
+33,1017,Research & Development,Medical,Male,Single,2993,Yes,299.3
+42,469,Research & Development,Medical,Male,Married,14399,No,1439.9
+28,1009,Research & Development,Medical,Male,Divorced,7160,No,716.0
+50,959,Sales,Other,Male,Single,17251,Yes,1725.1000000000001
+33,970,Sales,Life Sciences,Female,Married,13401,No,1340.1000000000001
+34,697,Research & Development,Life Sciences,Male,Married,22478,No,2247.8
+48,1262,Research & Development,Medical,Male,Single,16154,No,1615.4
+45,1050,Sales,Life Sciences,Female,Married,17970,No,1797.0
+52,994,Research & Development,Life Sciences,Male,Single,15322,No,1532.2
+38,770,Sales,Marketing,Male,Divorced,5569,Yes,556.9
+29,1107,Research & Development,Life Sciences,Female,Divorced,26968,No,2696.8
+28,950,Research & Development,Medical,Female,Divorced,8039,No,803.9000000000001
+46,406,Sales,Marketing,Male,Married,15596,No,1559.6000000000001
+38,130,Sales,Marketing,Male,Single,20619,No,2061.9
+43,1082,Research & Development,Life Sciences,Female,Married,11535,No,1153.5
+39,203,Research & Development,Life Sciences,Male,Divorced,13547,No,1354.7
+40,1308,Research & Development,Medical,Male,Single,17544,No,1754.4
+21,984,Research & Development,Technical Degree,Female,Single,25326,Yes,2532.6000000000004
+39,439,Research & Development,Life Sciences,Male,Single,8770,No,877.0
+36,217,Research & Development,Life Sciences,Male,Single,23238,No,2323.8
+31,793,Sales,Life Sciences,Male,Married,21981,No,2198.1
+28,1451,Research & Development,Life Sciences,Male,Married,19911,No,1991.1000000000001
+35,1182,Sales,Marketing,Male,Divorced,18500,No,1850.0
+49,174,Sales,Technical Degree,Male,Married,11879,No,1187.9
+34,1003,Research & Development,Life Sciences,Male,Single,15834,No,1583.4
+29,490,Research & Development,Life Sciences,Female,Divorced,17940,No,1794.0
+42,188,Research & Development,Medical,Male,Single,9558,No,955.8000000000001
+29,718,Research & Development,Medical,Male,Married,17689,Yes,1768.9
+38,433,Human Resources,Human Resources,Male,Married,6004,No,600.4
+28,773,Research & Development,Life Sciences,Male,Divorced,22088,Yes,2208.8
+18,247,Research & Development,Medical,Male,Single,13556,No,1355.6000000000001
+33,603,Sales,Marketing,Female,Single,18385,Yes,1838.5
+41,167,Research & Development,Life Sciences,Male,Married,9051,Yes,905.1
+31,874,Research & Development,Medical,Male,Married,6233,No,623.3000000000001
+37,367,Research & Development,Medical,Female,Divorced,17171,No,1717.1000000000001
+27,199,Research & Development,Life Sciences,Male,Married,7950,No,795.0
+34,1400,Sales,Life Sciences,Female,Married,5829,No,582.9
+35,528,Human Resources,Technical Degree,Male,Single,7108,No,710.8000000000001
+29,408,Sales,Life Sciences,Female,Married,11162,No,1116.2
+40,593,Research & Development,Medical,Female,Single,13782,No,1378.2
+42,481,Sales,Life Sciences,Male,Single,2447,Yes,244.70000000000002
+42,647,Sales,Marketing,Male,Single,2253,No,225.3
+35,982,Research & Development,Medical,Male,Married,16340,No,1634.0
+24,477,Research & Development,Medical,Male,Single,6409,No,640.9000000000001
+28,1485,Research & Development,Life Sciences,Female,Married,22955,Yes,2295.5
+26,1384,Research & Development,Medical,Male,Married,13421,No,1342.1000000000001
+30,852,Sales,Marketing,Male,Married,2706,No,270.6
+40,902,Research & Development,Medical,Female,Married,21203,Yes,2120.3
+35,819,Research & Development,Life Sciences,Male,Divorced,19588,No,1958.8000000000002
+34,669,Research & Development,Medical,Male,Single,25755,No,2575.5
+35,636,Research & Development,Other,Male,Married,26537,No,2653.7000000000003
+43,1372,Sales,Marketing,Female,Single,9489,No,948.9000000000001
+32,862,Sales,Life Sciences,Female,Divorced,14947,No,1494.7
+56,718,Research & Development,Technical Degree,Female,Divorced,18575,No,1857.5
+29,1401,Research & Development,Medical,Female,Married,26342,No,2634.2000000000003
+19,645,Research & Development,Life Sciences,Male,Single,7172,No,717.2
+45,1457,Research & Development,Medical,Female,Married,20100,Yes,2010.0
+37,977,Research & Development,Life Sciences,Female,Married,9961,No,996.1
+20,805,Research & Development,Life Sciences,Male,Single,12828,No,1282.8000000000002
+44,1097,Research & Development,Life Sciences,Male,Single,10826,Yes,1082.6000000000001
+53,1223,Research & Development,Medical,Female,Divorced,18640,No,1864.0
+29,942,Research & Development,Life Sciences,Female,Married,26933,Yes,2693.3
+22,1256,Research & Development,Life Sciences,Male,Married,4223,Yes,422.3
+46,1402,Sales,Marketing,Female,Married,24097,No,2409.7000000000003
+44,111,Research & Development,Life Sciences,Male,Single,4279,No,427.90000000000003
+33,147,Human Resources,Human Resources,Male,Married,8429,No,842.9000000000001
+41,906,Research & Development,Life Sciences,Male,Divorced,20293,No,2029.3000000000002
+30,1329,Sales,Life Sciences,Male,Divorced,13192,No,1319.2
+40,1184,Sales,Medical,Male,Married,25440,No,2544.0
+50,1421,Research & Development,Medical,Female,Married,9490,No,949.0
+28,1179,Research & Development,Medical,Male,Married,12449,No,1244.9
+46,1450,Research & Development,Life Sciences,Male,Married,10849,No,1084.9
+35,1361,Sales,Life Sciences,Male,Married,21026,Yes,2102.6
+24,984,Research & Development,Life Sciences,Female,Married,3372,No,337.20000000000005
+33,1146,Sales,Medical,Female,Married,4905,No,490.5
+36,917,Research & Development,Life Sciences,Male,Divorced,6865,No,686.5
+30,853,Research & Development,Life Sciences,Male,Divorced,11309,No,1130.9
+44,200,Research & Development,Other,Male,Single,7744,No,774.4000000000001
+20,654,Sales,Marketing,Male,Single,5050,No,505.0
+46,150,Research & Development,Technical Degree,Male,Divorced,17433,No,1743.3000000000002
+42,179,Human Resources,Medical,Male,Married,12858,No,1285.8000000000002
+60,696,Sales,Marketing,Male,Divorced,10893,Yes,1089.3
+32,116,Research & Development,Other,Female,Married,7331,No,733.1
+32,1316,Research & Development,Life Sciences,Female,Single,2338,Yes,233.8
+36,363,Research & Development,Technical Degree,Female,Divorced,4235,Yes,423.5
+33,117,Research & Development,Medical,Male,Married,6311,No,631.1
+40,107,Sales,Technical Degree,Female,Divorced,11591,No,1159.1000000000001
+25,1356,Sales,Life Sciences,Male,Single,20623,No,2062.3
+30,1465,Research & Development,Medical,Male,Married,9369,Yes,936.9000000000001
+42,458,Research & Development,Medical,Female,Married,23281,Yes,2328.1
+35,1212,Sales,Marketing,Female,Married,13755,Yes,1375.5
+27,1103,Research & Development,Life Sciences,Male,Married,14377,Yes,1437.7
+54,966,Research & Development,Life Sciences,Female,Divorced,9659,No,965.9000000000001
+44,1117,Research & Development,Life Sciences,Female,Married,19982,No,1998.2
+19,504,Research & Development,Medical,Female,Single,6148,Yes,614.8000000000001
+29,1010,Research & Development,Life Sciences,Female,Divorced,5598,No,559.8000000000001
+54,685,Research & Development,Life Sciences,Male,Married,23474,No,2347.4
+31,1332,Research & Development,Medical,Male,Married,17089,Yes,1708.9
+31,1062,Research & Development,Medical,Female,Single,17198,No,1719.8000000000002
+59,326,Sales,Life Sciences,Female,Single,16490,No,1649.0
+43,920,Research & Development,Life Sciences,Male,Married,18625,No,1862.5
+49,1098,Research & Development,Medical,Male,Married,12124,No,1212.4
+36,469,Research & Development,Technical Degree,Male,Married,9256,No,925.6
+48,969,Research & Development,Technical Degree,Male,Single,16620,No,1662.0
+27,1167,Research & Development,Life Sciences,Male,Divorced,3208,No,320.8
+29,1329,Research & Development,Life Sciences,Male,Divorced,4204,Yes,420.40000000000003
+48,715,Research & Development,Life Sciences,Male,Single,8733,No,873.3000000000001
+29,694,Research & Development,Life Sciences,Female,Divorced,3423,No,342.3
+34,1320,Research & Development,Technical Degree,Female,Married,21643,No,2164.3
+44,1099,Sales,Marketing,Male,Married,8751,No,875.1
+33,536,Sales,Marketing,Male,Divorced,21708,Yes,2170.8
+19,265,Research & Development,Life Sciences,Female,Single,21221,Yes,2122.1
+23,373,Research & Development,Life Sciences,Male,Married,16901,No,1690.1000000000001
+25,599,Sales,Life Sciences,Male,Single,8040,Yes,804.0
+26,583,Research & Development,Life Sciences,Male,Single,9973,Yes,997.3000000000001
+45,1449,Sales,Marketing,Female,Single,2493,Yes,249.3
+55,177,Research & Development,Medical,Male,Divorced,25592,Yes,2559.2000000000003
+21,251,Research & Development,Life Sciences,Female,Single,25308,No,2530.8
+46,168,Sales,Marketing,Female,Married,9946,No,994.6
+34,131,Sales,Marketing,Female,Single,6039,Yes,603.9
+51,237,Sales,Life Sciences,Male,Divorced,19196,Yes,1919.6000000000001
+59,1429,Research & Development,Medical,Male,Single,20002,No,2000.2
+34,135,Research & Development,Medical,Female,Divorced,22534,No,2253.4
+28,791,Research & Development,Medical,Male,Single,6842,Yes,684.2
+44,1199,Research & Development,Life Sciences,Male,Divorced,17477,No,1747.7
+34,648,Human Resources,Life Sciences,Male,Married,21833,No,2183.3
+35,735,Research & Development,Life Sciences,Male,Married,6020,Yes,602.0
+42,603,Research & Development,Medical,Female,Married,5628,Yes,562.8000000000001
+43,531,Sales,Marketing,Female,Single,20364,No,2036.4
+36,429,Research & Development,Life Sciences,Female,Single,2323,Yes,232.3
+44,621,Research & Development,Medical,Female,Married,14075,No,1407.5
+28,193,Research & Development,Life Sciences,Male,Married,14222,Yes,1422.2
+51,968,Research & Development,Medical,Female,Single,4257,No,425.70000000000005
+30,879,Research & Development,Medical,Female,Single,12858,Yes,1285.8000000000002
+29,806,Research & Development,Technical Degree,Female,Divorced,17285,Yes,1728.5
+28,640,Research & Development,Technical Degree,Male,Single,4732,No,473.20000000000005
+25,266,Research & Development,Medical,Female,Single,18830,No,1883.0
+32,604,Sales,Medical,Male,Married,11693,No,1169.3
+45,364,Research & Development,Medical,Female,Single,13035,No,1303.5
+39,412,Research & Development,Medical,Female,Divorced,17334,Yes,1733.4
+58,848,Research & Development,Life Sciences,Male,Divorced,26076,No,2607.6000000000004
+32,1089,Research & Development,Life Sciences,Male,Married,22845,No,2284.5
+39,360,Research & Development,Medical,Male,Single,22154,No,2215.4
+30,1138,Research & Development,Technical Degree,Female,Married,23631,No,2363.1
+36,325,Research & Development,Technical Degree,Female,Married,5747,No,574.7
+46,991,Human Resources,Life Sciences,Female,Single,22957,No,2295.7000000000003
+28,1476,Research & Development,Life Sciences,Female,Married,16392,No,1639.2
+50,1322,Research & Development,Life Sciences,Female,Married,22422,Yes,2242.2000000000003
+40,299,Sales,Marketing,Male,Single,17235,Yes,1723.5
+52,1030,Sales,Life Sciences,Male,Single,21534,Yes,2153.4
+30,634,Research & Development,Medical,Female,Married,25927,Yes,2592.7000000000003
+39,524,Research & Development,Life Sciences,Male,Single,13352,No,1335.2
+31,587,Sales,Life Sciences,Female,Divorced,8935,Yes,893.5
+41,256,Sales,Medical,Male,Single,22074,No,2207.4
+31,1060,Sales,Life Sciences,Female,Single,8319,Yes,831.9000000000001
+44,935,Research & Development,Life Sciences,Male,Married,14669,No,1466.9
+42,495,Research & Development,Life Sciences,Male,Married,26582,Yes,2658.2000000000003
+55,282,Research & Development,Medical,Female,Married,6992,No,699.2
+56,206,Human Resources,Life Sciences,Male,Single,4022,No,402.20000000000005
+40,458,Research & Development,Life Sciences,Male,Divorced,8532,No,853.2
+34,943,Research & Development,Life Sciences,Male,Divorced,5494,No,549.4
+40,523,Research & Development,Life Sciences,Male,Single,22455,No,2245.5
+41,1018,Sales,Marketing,Female,Divorced,4297,No,429.70000000000005
+35,482,Research & Development,Life Sciences,Male,Single,2690,Yes,269.0
+51,770,Human Resources,Life Sciences,Male,Divorced,17588,Yes,1758.8000000000002
+38,1009,Sales,Life Sciences,Female,Divorced,19461,No,1946.1000000000001
+34,507,Sales,Medical,Female,Single,23553,No,2355.3
+25,882,Research & Development,Medical,Male,Married,9075,No,907.5
+58,601,Research & Development,Medical,Female,Married,12023,Yes,1202.3
+40,329,Research & Development,Life Sciences,Male,Married,6762,No,676.2
+36,607,Sales,Marketing,Female,Married,2261,No,226.10000000000002
+48,855,Research & Development,Life Sciences,Male,Single,18706,No,1870.6000000000001
+27,1291,Sales,Medical,Female,Married,6527,No,652.7
+51,1405,Research & Development,Technical Degree,Female,Single,24439,No,2443.9
+18,1124,Research & Development,Life Sciences,Female,Single,19305,No,1930.5
+35,817,Research & Development,Medical,Female,Married,10846,No,1084.6000000000001
+27,793,Sales,Life Sciences,Male,Single,20392,No,2039.2
+55,267,Sales,Marketing,Male,Single,9277,Yes,927.7
+56,1369,Research & Development,Life Sciences,Male,Married,18235,Yes,1823.5
+34,999,Research & Development,Technical Degree,Female,Divorced,15891,No,1589.1000000000001
+40,1202,Research & Development,Medical,Female,Divorced,13888,No,1388.8000000000002
+34,285,Research & Development,Medical,Male,Married,17491,No,1749.1000000000001
+31,703,Sales,Life Sciences,Female,Single,11882,No,1188.2
+35,662,Sales,Marketing,Female,Married,23288,Yes,2328.8
+38,693,Research & Development,Life Sciences,Male,Divorced,15748,No,1574.8000000000002
+34,404,Research & Development,Technical Degree,Female,Single,6163,No,616.3000000000001
+28,736,Sales,Life Sciences,Male,Married,24232,No,2423.2000000000003
+31,330,Research & Development,Medical,Male,Married,21057,Yes,2105.7000000000003
+39,1498,Sales,Life Sciences,Male,Married,3567,Yes,356.70000000000005
+51,541,Sales,Marketing,Male,Married,15395,No,1539.5
+41,1200,Research & Development,Life Sciences,Female,Divorced,13953,Yes,1395.3000000000002
+37,1439,Research & Development,Life Sciences,Male,Married,5182,Yes,518.2
+33,1111,Sales,Life Sciences,Male,Married,19293,No,1929.3000000000002
+32,499,Sales,Marketing,Male,Married,20497,Yes,2049.7000000000003
+39,1485,Research & Development,Life Sciences,Male,Married,3449,No,344.90000000000003
+25,1372,Sales,Life Sciences,Male,Married,12477,No,1247.7
+52,322,Research & Development,Medical,Female,Married,9731,Yes,973.1
+43,930,Research & Development,Medical,Female,Single,20003,Yes,2000.3000000000002
+27,205,Sales,Marketing,Female,Married,7100,Yes,710.0
+27,135,Research & Development,Life Sciences,Female,Single,25681,Yes,2568.1000000000004
+26,683,Research & Development,Medical,Male,Single,4050,No,405.0
+42,1147,Human Resources,Human Resources,Female,Married,16616,No,1661.6000000000001
+52,258,Research & Development,Other,Female,Married,17363,No,1736.3000000000002
+37,1462,Research & Development,Medical,Female,Single,19106,No,1910.6000000000001
+35,200,Research & Development,Life Sciences,Male,Single,19944,No,1994.4
+25,949,Research & Development,Technical Degree,Male,Married,4910,No,491.0
+26,652,Research & Development,Other,Male,Single,23577,No,2357.7000000000003
+29,332,Human Resources,Other,Male,Single,9769,No,976.9000000000001
+49,1475,Research & Development,Life Sciences,Male,Single,22710,No,2271.0
+29,337,Research & Development,Other,Female,Single,22930,Yes,2293.0
+54,971,Research & Development,Medical,Female,Single,5652,No,565.2
+58,1055,Research & Development,Medical,Female,Married,22456,Yes,2245.6
+55,1136,Research & Development,Medical,Male,Divorced,12414,No,1241.4
+36,1174,Sales,Marketing,Female,Single,20763,Yes,2076.3
+31,667,Sales,Life Sciences,Female,Single,16154,No,1615.4
+30,855,Sales,Marketing,Female,Divorced,12761,No,1276.1000000000001
+31,182,Research & Development,Life Sciences,Female,Single,8847,No,884.7
+34,560,Research & Development,Other,Male,Divorced,20284,No,2028.4
+31,202,Research & Development,Life Sciences,Female,Single,22262,No,2226.2000000000003
+27,1377,Research & Development,Life Sciences,Male,Married,7679,No,767.9000000000001
+36,172,Research & Development,Life Sciences,Male,Single,22604,No,2260.4
+36,329,Sales,Marketing,Female,Married,13494,No,1349.4
+47,465,Research & Development,Technical Degree,Male,Married,10205,No,1020.5
+25,383,Sales,Life Sciences,Male,Married,15182,No,1518.2
+37,1413,Research & Development,Technical Degree,Male,Single,25470,No,2547.0
+56,1255,Research & Development,Life Sciences,Female,Married,10494,No,1049.4
+47,359,Research & Development,Medical,Female,Married,26703,No,2670.3
+24,1476,Sales,Medical,Female,Married,15211,Yes,1521.1000000000001
+32,601,Sales,Marketing,Male,Married,23343,No,2334.3
+34,401,Research & Development,Life Sciences,Female,Married,3708,No,370.8
+41,1283,Research & Development,Medical,Male,Married,5561,Yes,556.1
+40,663,Research & Development,Other,Male,Divorced,23099,No,2309.9
+31,326,Sales,Life Sciences,Male,Divorced,8386,No,838.6
+46,377,Sales,Marketing,Male,Divorced,15986,No,1598.6000000000001
+39,592,Research & Development,Life Sciences,Female,Single,17181,Yes,1718.1000000000001
+31,1445,Research & Development,Life Sciences,Female,Single,8931,No,893.1
+45,1038,Research & Development,Medical,Male,Divorced,19863,Yes,1986.3000000000002
+31,1398,Human Resources,Medical,Female,Single,24609,No,2460.9
+31,523,Research & Development,Life Sciences,Male,Married,21081,Yes,2108.1
+45,1448,Research & Development,Technical Degree,Male,Married,14720,Yes,1472.0
+48,1221,Sales,Marketing,Male,Divorced,24795,No,2479.5
+34,1107,Human Resources,Technical Degree,Female,Married,3072,No,307.20000000000005
+40,218,Research & Development,Medical,Male,Divorced,25178,No,2517.8
+28,866,Sales,Medical,Male,Single,23490,No,2349.0
+44,981,Research & Development,Life Sciences,Male,Single,7973,No,797.3000000000001
+53,447,Research & Development,Medical,Male,Single,19764,No,1976.4
+49,1495,Research & Development,Technical Degree,Male,Married,21534,No,2153.4
+40,896,Research & Development,Medical,Male,Divorced,8045,No,804.5
+44,1467,Research & Development,Life Sciences,Male,Single,21158,No,2115.8
+33,430,Sales,Medical,Male,Married,17456,No,1745.6000000000001
+34,1326,Sales,Other,Male,Single,15891,No,1589.1000000000001
+30,1358,Sales,Life Sciences,Male,Married,2939,No,293.90000000000003
+42,748,Research & Development,Medical,Female,Single,16458,No,1645.8000000000002
+44,383,Sales,Marketing,Female,Married,9282,No,928.2
+30,990,Research & Development,Technical Degree,Male,Divorced,7152,No,715.2
+57,405,Research & Development,Life Sciences,Male,Married,2721,No,272.1
+49,1490,Research & Development,Life Sciences,Male,Divorced,20948,No,2094.8
+34,829,Research & Development,Medical,Male,Divorced,11929,No,1192.9
+28,1496,Sales,Technical Degree,Male,Married,15747,No,1574.7
+29,115,Sales,Technical Degree,Female,Single,17485,No,1748.5
+34,790,Sales,Medical,Female,Single,7815,Yes,781.5
+35,660,Sales,Life Sciences,Male,Married,16192,No,1619.2
+24,381,Research & Development,Medical,Male,Single,16998,Yes,1699.8000000000002
+24,830,Sales,Life Sciences,Female,Married,7103,No,710.3000000000001
+44,1193,Research & Development,Medical,Male,Single,19719,Yes,1971.9
+29,1246,Sales,Life Sciences,Male,Divorced,23757,No,2375.7000000000003
+30,330,Human Resources,Life Sciences,Male,Divorced,15428,No,1542.8000000000002
+55,1229,Research & Development,Life Sciences,Male,Married,16143,Yes,1614.3000000000002
+33,1099,Research & Development,Medical,Female,Married,8192,No,819.2
+47,571,Sales,Medical,Female,Married,24200,Yes,2420.0
+28,289,Research & Development,Medical,Male,Single,5355,No,535.5
+28,1423,Research & Development,Life Sciences,Male,Divorced,12530,No,1253.0
+28,467,Sales,Life Sciences,Male,Single,11827,No,1182.7
+49,271,Research & Development,Medical,Female,Married,23070,No,2307.0
+29,410,Research & Development,Life Sciences,Female,Married,4668,No,466.8
+28,1083,Research & Development,Life Sciences,Male,Married,3173,No,317.3
+33,516,Research & Development,Life Sciences,Male,Single,22049,Yes,2204.9
+32,495,Research & Development,Medical,Male,Single,21072,No,2107.2000000000003
+54,1050,Research & Development,Medical,Female,Divorced,24456,No,2445.6
+29,224,Research & Development,Technical Degree,Male,Single,7568,No,756.8000000000001
+44,136,Research & Development,Life Sciences,Male,Married,22074,No,2207.4
+39,1089,Research & Development,Life Sciences,Female,Single,9150,No,915.0
+46,228,Sales,Life Sciences,Female,Married,11380,No,1138.0
+35,1029,Research & Development,Life Sciences,Female,Single,21195,No,2119.5
+23,507,Research & Development,Life Sciences,Male,Single,24812,No,2481.2000000000003
+40,676,Research & Development,Life Sciences,Male,Single,21831,No,2183.1
+34,971,Sales,Technical Degree,Male,Married,12288,Yes,1228.8000000000002
+31,561,Research & Development,Life Sciences,Female,Single,4156,No,415.6
+50,333,Research & Development,Medical,Male,Single,24450,Yes,2445.0
+34,1440,Sales,Technical Degree,Male,Married,4944,Yes,494.40000000000003
+42,1210,Research & Development,Medical,Male,Married,24052,No,2405.2000000000003
+37,674,Research & Development,Medical,Male,Married,3031,No,303.1
+29,441,Research & Development,Other,Female,Married,7288,No,728.8000000000001
+33,575,Research & Development,Life Sciences,Male,Single,24152,No,2415.2000000000003
+45,950,Research & Development,Technical Degree,Male,Married,4585,No,458.5
+42,288,Research & Development,Life Sciences,Male,Married,18611,Yes,1861.1000000000001
+40,1342,Sales,Medical,Male,Married,19345,No,1934.5
+33,589,Research & Development,Life Sciences,Male,Married,22949,Yes,2294.9
+40,898,Human Resources,Medical,Male,Single,17381,Yes,1738.1000000000001
+24,350,Research & Development,Technical Degree,Male,Divorced,10036,No,1003.6
+40,1142,Research & Development,Life Sciences,Male,Divorced,8841,Yes,884.1
+45,538,Research & Development,Technical Degree,Male,Divorced,20933,No,2093.3
+35,1402,Sales,Life Sciences,Female,Married,26204,No,2620.4
+32,824,Research & Development,Life Sciences,Female,Married,15624,No,1562.4
+36,1157,Sales,Life Sciences,Male,Single,17001,Yes,1700.1000000000001
+48,492,Sales,Life Sciences,Female,Divorced,13693,No,1369.3000000000002
+29,598,Research & Development,Life Sciences,Male,Married,22376,No,2237.6
+33,1242,Sales,Life Sciences,Male,Married,10589,No,1058.9
+30,740,Sales,Life Sciences,Male,Married,5323,No,532.3000000000001
+38,888,Human Resources,Human Resources,Male,Married,14814,No,1481.4
+35,992,Research & Development,Medical,Male,Single,21731,No,2173.1
+30,1288,Sales,Technical Degree,Male,Married,17799,No,1779.9
+35,104,Research & Development,Life Sciences,Female,Divorced,26619,Yes,2661.9
+53,607,Research & Development,Technical Degree,Female,Married,14618,No,1461.8000000000002
+38,903,Research & Development,Medical,Male,Married,7653,No,765.3000000000001
+32,1200,Research & Development,Technical Degree,Male,Married,25174,No,2517.4
+48,1108,Research & Development,Other,Female,Married,16530,No,1653.0
+34,479,Research & Development,Medical,Male,Single,22061,No,2206.1
+55,685,Sales,Marketing,Male,Married,23037,No,2303.7000000000003
+34,1351,Research & Development,Life Sciences,Male,Married,13008,No,1300.8000000000002
+26,474,Research & Development,Life Sciences,Female,Married,11133,No,1113.3
+38,1245,Sales,Life Sciences,Male,Married,12355,No,1235.5
+38,437,Sales,Life Sciences,Female,Single,16379,No,1637.9
+36,884,Sales,Life Sciences,Female,Single,21447,No,2144.7000000000003
+29,1370,Research & Development,Medical,Male,Single,16213,Yes,1621.3000000000002
+35,670,Research & Development,Medical,Female,Single,4223,Yes,422.3
+39,1462,Sales,Medical,Male,Married,4658,No,465.8
+29,995,Research & Development,Life Sciences,Male,Divorced,24483,No,2448.3
+50,264,Sales,Marketing,Male,Married,19519,Yes,1951.9
+23,977,Research & Development,Technical Degree,Male,Married,12826,No,1282.6000000000001
+36,1302,Research & Development,Life Sciences,Male,Married,19711,Yes,1971.1000000000001
+42,1059,Research & Development,Other,Male,Single,26362,No,2636.2000000000003
+35,750,Research & Development,Life Sciences,Male,Married,25348,No,2534.8
+34,653,Research & Development,Technical Degree,Male,Married,15332,No,1533.2
+40,118,Sales,Life Sciences,Female,Married,11262,No,1126.2
+43,990,Research & Development,Technical Degree,Male,Divorced,5855,No,585.5
+35,1349,Research & Development,Life Sciences,Male,Married,7713,No,771.3000000000001
+46,563,Sales,Life Sciences,Male,Single,3156,No,315.6
+28,329,Research & Development,Medical,Male,Married,7324,Yes,732.4000000000001
+22,457,Research & Development,Other,Female,Married,10293,Yes,1029.3
+50,1234,Research & Development,Medical,Male,Married,20689,Yes,2068.9
+32,634,Research & Development,Other,Female,Married,18783,No,1878.3000000000002
+44,1313,Research & Development,Medical,Female,Divorced,3549,Yes,354.90000000000003
+30,241,Research & Development,Medical,Male,Married,5348,No,534.8000000000001
+45,1015,Research & Development,Medical,Female,Single,23447,Yes,2344.7000000000003
+45,336,Sales,Marketing,Male,Married,24162,No,2416.2000000000003
+31,715,Sales,Other,Male,Single,21602,No,2160.2000000000003
+36,559,Research & Development,Life Sciences,Female,Married,12421,Yes,1242.1000000000001
+34,426,Research & Development,Life Sciences,Male,Divorced,17000,No,1700.0
+49,722,Research & Development,Life Sciences,Female,Married,22102,No,2210.2000000000003
+39,1387,Research & Development,Medical,Male,Married,3835,No,383.5
+27,1302,Research & Development,Other,Male,Divorced,16290,No,1629.0
+35,819,Research & Development,Life Sciences,Male,Married,26312,No,2631.2000000000003
+28,580,Research & Development,Medical,Female,Divorced,20460,No,2046.0
+21,546,Research & Development,Medical,Male,Single,26009,No,2600.9
+18,544,Sales,Medical,Female,Single,18420,Yes,1842.0
+47,1176,Human Resources,Life Sciences,Female,Married,5220,No,522.0
+39,170,Research & Development,Medical,Male,Divorced,10302,No,1030.2
+40,884,Research & Development,Life Sciences,Female,Married,25800,No,2580.0
+35,208,Research & Development,Life Sciences,Female,Married,12250,No,1225.0
+37,671,Research & Development,Life Sciences,Male,Married,26493,No,2649.3
+39,711,Research & Development,Medical,Female,Single,3140,No,314.0
+45,1329,Research & Development,Other,Female,Divorced,5388,No,538.8000000000001
+38,397,Research & Development,Medical,Female,Married,14199,Yes,1419.9
+35,737,Sales,Medical,Male,Married,21530,No,2153.0
+37,1470,Research & Development,Medical,Female,Married,9953,No,995.3000000000001
+40,448,Research & Development,Life Sciences,Female,Single,19948,Yes,1994.8000000000002
+44,602,Human Resources,Human Resources,Male,Married,10503,Yes,1050.3
+48,365,Research & Development,Medical,Male,Married,5602,No,560.2
+35,763,Sales,Medical,Male,Divorced,22098,Yes,2209.8
+24,567,Research & Development,Technical Degree,Female,Single,17218,Yes,1721.8000000000002
+27,486,Research & Development,Medical,Female,Married,22490,No,2249.0
+27,591,Research & Development,Medical,Male,Single,6297,No,629.7
+40,1329,Research & Development,Life Sciences,Male,Single,3339,Yes,333.90000000000003
+29,469,Sales,Medical,Male,Single,23413,No,2341.3
+36,711,Research & Development,Life Sciences,Female,Married,22792,No,2279.2000000000003
+25,772,Research & Development,Life Sciences,Male,Divorced,4973,No,497.3
+39,492,Research & Development,Medical,Male,Married,7693,No,769.3000000000001
+49,301,Research & Development,Other,Female,Married,3498,No,349.8
+50,813,Research & Development,Life Sciences,Female,Divorced,21981,No,2198.1
+20,1141,Sales,Medical,Female,Single,13251,No,1325.1000000000001
+34,1130,Research & Development,Life Sciences,Female,Divorced,19332,No,1933.2
+36,311,Research & Development,Life Sciences,Male,Single,10950,No,1095.0
+49,465,Research & Development,Life Sciences,Female,Married,11652,Yes,1165.2
+36,894,Research & Development,Medical,Female,Married,15411,No,1541.1000000000001
+36,1040,Research & Development,Life Sciences,Male,Divorced,26308,No,2630.8
+54,584,Research & Development,Medical,Female,Married,18685,No,1868.5
+43,1291,Research & Development,Life Sciences,Male,Married,3525,No,352.5
+35,880,Sales,Other,Male,Single,10414,Yes,1041.4
+38,1189,Research & Development,Life Sciences,Male,Married,9867,No,986.7
+29,991,Sales,Medical,Male,Divorced,3356,Yes,335.6
+33,392,Sales,Medical,Male,Divorced,3921,No,392.1
+32,977,Research & Development,Medical,Male,Divorced,25518,No,2551.8
+31,1112,Sales,Life Sciences,Female,Married,22589,No,2258.9
+49,464,Research & Development,Medical,Female,Divorced,24941,Yes,2494.1000000000004
+38,148,Research & Development,Medical,Female,Single,23826,No,2382.6
+47,1225,Sales,Life Sciences,Female,Divorced,21086,No,2108.6
+49,809,Research & Development,Life Sciences,Male,Single,22384,No,2238.4
+41,1206,Sales,Life Sciences,Male,Single,11591,Yes,1159.1000000000001
+20,727,Sales,Life Sciences,Male,Single,21082,No,2108.2000000000003
+33,530,Sales,Life Sciences,Female,Divorced,16130,Yes,1613.0
+36,1351,Research & Development,Life Sciences,Male,Married,7419,No,741.9000000000001
+44,528,Human Resources,Life Sciences,Female,Divorced,4167,Yes,416.70000000000005
+23,1320,Research & Development,Medical,Male,Single,20586,Yes,2058.6
+38,1495,Research & Development,Medical,Female,Married,26176,No,2617.6000000000004
+53,1395,Research & Development,Medical,Male,Married,3458,No,345.8
+48,708,Sales,Medical,Female,Married,11740,Yes,1174.0
+32,1259,Research & Development,Life Sciences,Male,Single,24852,No,2485.2000000000003
+26,786,Research & Development,Medical,Male,Single,11925,No,1192.5
+55,1441,Research & Development,Technical Degree,Male,Divorced,23737,No,2373.7000000000003
+34,1157,Research & Development,Medical,Male,Married,11912,No,1191.2
+60,370,Research & Development,Medical,Male,Divorced,20467,No,2046.7
+33,267,Research & Development,Medical,Male,Married,13637,No,1363.7
+37,1278,Sales,Medical,Male,Divorced,7677,No,767.7
+34,678,Research & Development,Life Sciences,Female,Married,20338,No,2033.8000000000002
+23,427,Sales,Life Sciences,Male,Divorced,25103,Yes,2510.3
+44,921,Research & Development,Life Sciences,Female,Married,14810,Yes,1481.0
+35,146,Research & Development,Medical,Male,Single,13970,Yes,1397.0
+43,1179,Sales,Medical,Male,Married,6069,Yes,606.9
+24,581,Research & Development,Medical,Male,Married,17616,No,1761.6000000000001
+41,918,Sales,Marketing,Male,Single,15869,No,1586.9
+29,1082,Research & Development,Medical,Female,Married,25412,No,2541.2000000000003
+36,530,Sales,Life Sciences,Female,Single,7439,No,743.9000000000001
+45,1238,Research & Development,Life Sciences,Male,Married,3395,No,339.5
+24,240,Human Resources,Human Resources,Male,Married,11585,No,1158.5
+47,1093,Sales,Life Sciences,Male,Married,24164,No,2416.4
+26,390,Research & Development,Medical,Male,Married,6217,No,621.7
+45,1005,Research & Development,Technical Degree,Female,Single,17119,No,1711.9
+32,585,Research & Development,Life Sciences,Male,Married,17360,No,1736.0
+31,741,Research & Development,Life Sciences,Male,Married,18103,No,1810.3000000000002
+41,552,Human Resources,Human Resources,Male,Married,20794,No,2079.4
+40,369,Research & Development,Life Sciences,Female,Married,5041,Yes,504.1
+24,506,Research & Development,Medical,Male,Divorced,3622,No,362.20000000000005
+46,717,Research & Development,Life Sciences,Male,Single,9697,No,969.7
+35,1370,Research & Development,Life Sciences,Male,Married,5151,No,515.1
+30,793,Research & Development,Life Sciences,Male,Married,3811,No,381.1
+47,543,Sales,Marketing,Male,Married,3536,No,353.6
+46,1277,Sales,Life Sciences,Male,Divorced,5596,Yes,559.6
+36,1456,Sales,Marketing,Male,Divorced,8658,Yes,865.8000000000001
+32,964,Sales,Life Sciences,Male,Single,12147,No,1214.7
+23,160,Research & Development,Medical,Female,Single,12862,No,1286.2
+31,163,Research & Development,Technical Degree,Female,Single,6670,No,667.0
+39,792,Research & Development,Life Sciences,Male,Married,8989,Yes,898.9000000000001
+32,371,Sales,Life Sciences,Male,Married,3840,No,384.0
+40,611,Sales,Medical,Male,Single,4349,No,434.90000000000003
+45,176,Human Resources,Life Sciences,Female,Married,6595,No,659.5
+30,1312,Research & Development,Technical Degree,Female,Single,26427,No,2642.7000000000003
+24,897,Human Resources,Medical,Male,Married,2097,No,209.70000000000002
+30,600,Human Resources,Human Resources,Female,Divorced,9732,No,973.2
+31,1003,Sales,Technical Degree,Male,Married,20943,No,2094.3
+27,1054,Research & Development,Medical,Female,Single,6152,No,615.2
+29,428,Sales,Marketing,Female,Single,14630,No,1463.0
+29,461,Research & Development,Life Sciences,Male,Single,23060,Yes,2306.0
+30,979,Sales,Marketing,Male,Divorced,3088,No,308.8
+34,181,Research & Development,Medical,Male,Married,5586,Yes,558.6
+33,1283,Sales,Marketing,Female,Single,10697,No,1069.7
+49,1313,Sales,Marketing,Female,Single,8191,No,819.1
+33,211,Sales,Life Sciences,Female,Single,10092,Yes,1009.2
+38,594,Research & Development,Medical,Female,Married,15963,No,1596.3000000000002
+31,1079,Sales,Marketing,Male,Married,19002,No,1900.2
+29,590,Research & Development,Technical Degree,Female,Divorced,10007,No,1000.7
+30,305,Research & Development,Life Sciences,Male,Married,9128,No,912.8000000000001
+32,953,Research & Development,Technical Degree,Male,Single,17674,No,1767.4
+38,833,Research & Development,Medical,Male,Married,24539,Yes,2453.9
+43,807,Research & Development,Technical Degree,Male,Married,15587,Yes,1558.7
+42,855,Research & Development,Medical,Male,Divorced,8952,No,895.2
+55,478,Research & Development,Medical,Male,Married,19805,No,1980.5
+33,775,Research & Development,Technical Degree,Male,Divorced,6194,No,619.4000000000001
+41,548,Research & Development,Life Sciences,Male,Divorced,20520,No,2052.0
+34,1375,Sales,Life Sciences,Male,Divorced,12313,Yes,1231.3000000000002
+53,661,Research & Development,Medical,Female,Married,22308,Yes,2230.8
+43,244,Human Resources,Life Sciences,Male,Single,5033,No,503.3
+34,511,Sales,Life Sciences,Female,Single,25353,No,2535.3
+21,337,Sales,Marketing,Male,Single,4567,No,456.70000000000005
+38,1153,Research & Development,Other,Female,Married,16376,No,1637.6000000000001
+22,1294,Research & Development,Medical,Female,Married,15999,Yes,1599.9
+31,196,Sales,Marketing,Female,Married,13402,No,1340.2
+51,942,Research & Development,Technical Degree,Female,Married,22984,No,2298.4
+37,589,Sales,Marketing,Male,Married,8800,No,880.0
+46,734,Research & Development,Medical,Male,Divorced,14218,Yes,1421.8000000000002
+36,1383,Research & Development,Life Sciences,Male,Married,25949,Yes,2594.9
+44,429,Research & Development,Medical,Male,Divorced,11092,Yes,1109.2
+37,1239,Human Resources,Other,Male,Divorced,12832,No,1283.2
+35,303,Sales,Life Sciences,Male,Single,13492,Yes,1349.2
+33,867,Research & Development,Life Sciences,Male,Married,6076,No,607.6
+28,1181,Research & Development,Life Sciences,Male,Married,5531,No,553.1
+39,1253,Research & Development,Medical,Male,Single,7914,No,791.4000000000001
+46,849,Sales,Life Sciences,Male,Single,25166,No,2516.6000000000004
+40,616,Research & Development,Life Sciences,Female,Married,25605,No,2560.5
+42,1128,Research & Development,Medical,Male,Married,5696,No,569.6
+35,1180,Research & Development,Medical,Male,Divorced,24442,No,2444.2000000000003
+38,1336,Human Resources,Human Resources,Male,Divorced,7129,No,712.9000000000001
+34,234,Research & Development,Life Sciences,Male,Married,6208,No,620.8000000000001
+37,370,Research & Development,Medical,Male,Single,4992,No,499.20000000000005
+39,766,Sales,Life Sciences,Male,Divorced,19188,No,1918.8000000000002
+43,343,Research & Development,Life Sciences,Male,Single,24978,No,2497.8
+41,447,Research & Development,Life Sciences,Male,Single,15530,No,1553.0
+41,796,Sales,Marketing,Female,Divorced,26458,Yes,2645.8
+30,1092,Research & Development,Medical,Female,Single,2739,No,273.90000000000003
+26,920,Human Resources,Medical,Female,Married,6889,Yes,688.9000000000001
+46,261,Research & Development,Medical,Female,Married,10842,No,1084.2
+40,1194,Research & Development,Life Sciences,Female,Divorced,9060,No,906.0
+34,810,Sales,Technical Degree,Male,Married,22128,No,2212.8
+58,350,Sales,Medical,Male,Divorced,22577,No,2257.7000000000003
+35,185,Research & Development,Medical,Male,Married,9696,No,969.6
+47,1001,Research & Development,Life Sciences,Female,Divorced,19271,Yes,1927.1000000000001
+40,750,Research & Development,Life Sciences,Female,Divorced,10748,No,1074.8
+54,431,Research & Development,Medical,Female,Married,15696,No,1569.6000000000001
+31,1125,Sales,Marketing,Female,Married,8277,No,827.7
+28,1217,Research & Development,Medical,Female,Married,12719,No,1271.9
+38,723,Sales,Marketing,Female,Married,4244,Yes,424.40000000000003
+26,572,Sales,Medical,Male,Single,9125,No,912.5
+58,1216,Research & Development,Life Sciences,Male,Married,21624,Yes,2162.4
+18,1431,Research & Development,Medical,Female,Single,8018,No,801.8000000000001
+31,359,Human Resources,Human Resources,Male,Married,21495,No,2149.5
+29,350,Human Resources,Human Resources,Male,Divorced,3157,Yes,315.70000000000005
+45,589,Sales,Life Sciences,Female,Married,19665,No,1966.5
+36,430,Research & Development,Other,Female,Married,19573,Yes,1957.3000000000002
+43,1422,Sales,Life Sciences,Male,Married,19246,No,1924.6000000000001
+27,1297,Research & Development,Life Sciences,Female,Single,19826,Yes,1982.6000000000001
+29,574,Research & Development,Medical,Male,Married,7003,No,700.3000000000001
+32,1318,Sales,Marketing,Male,Single,26075,No,2607.5
+42,355,Research & Development,Technical Degree,Male,Married,6161,No,616.1
+47,207,Research & Development,Life Sciences,Female,Single,5411,No,541.1
+46,706,Research & Development,Life Sciences,Male,Divorced,19989,No,1998.9
+28,280,Human Resources,Life Sciences,Male,Divorced,10494,No,1049.4
+29,726,Research & Development,Life Sciences,Male,Divorced,21143,No,2114.3
+42,1142,Research & Development,Life Sciences,Male,Single,13624,No,1362.4
+32,414,Sales,Marketing,Male,Single,26186,Yes,2618.6000000000004
+46,1319,Sales,Technical Degree,Female,Divorced,7739,No,773.9000000000001
+27,728,Sales,Medical,Female,Married,7018,No,701.8000000000001
+29,352,Human Resources,Medical,Male,Married,15434,No,1543.4
+43,823,Research & Development,Medical,Female,Married,22539,No,2253.9
+48,1224,Research & Development,Life Sciences,Male,Married,13583,No,1358.3000000000002
+29,459,Research & Development,Life Sciences,Male,Single,14753,Yes,1475.3000000000002
+46,1254,Sales,Life Sciences,Female,Married,14011,No,1401.1000000000001
+27,1131,Research & Development,Life Sciences,Female,Married,23844,No,2384.4
+39,835,Research & Development,Other,Male,Divorced,5141,No,514.1
+55,836,Research & Development,Technical Degree,Male,Married,7975,No,797.5
+28,1172,Sales,Medical,Female,Married,3692,No,369.20000000000005
+30,945,Sales,Medical,Male,Single,16019,No,1601.9
+22,391,Research & Development,Life Sciences,Male,Single,26092,Yes,2609.2000000000003
+36,1266,Sales,Technical Degree,Female,Married,6060,Yes,606.0
+31,311,Research & Development,Life Sciences,Male,Divorced,18624,No,1862.4
+34,1480,Sales,Life Sciences,Male,Married,24444,Yes,2444.4
+29,592,Research & Development,Life Sciences,Male,Single,19384,No,1938.4
+37,783,Research & Development,Medical,Male,Married,13588,Yes,1358.8000000000002
+35,219,Research & Development,Other,Female,Married,25388,Yes,2538.8
+45,556,Research & Development,Life Sciences,Female,Married,23888,No,2388.8
+36,1213,Human Resources,Human Resources,Male,Single,4223,No,422.3
+40,1137,Research & Development,Life Sciences,Male,Divorced,18991,No,1899.1000000000001
+26,482,Research & Development,Life Sciences,Female,Married,14908,Yes,1490.8000000000002
+27,511,Sales,Medical,Female,Single,26997,No,2699.7000000000003
+48,117,Research & Development,Medical,Female,Divorced,2437,No,243.70000000000002
+44,170,Research & Development,Life Sciences,Male,Married,9364,No,936.4000000000001
+34,967,Research & Development,Technical Degree,Male,Married,14460,Yes,1446.0
+56,1162,Research & Development,Life Sciences,Male,Single,10261,No,1026.1000000000001
+36,335,Sales,Marketing,Male,Married,16822,No,1682.2
+41,337,Sales,Marketing,Female,Married,26841,No,2684.1000000000004
+42,1396,Research & Development,Medical,Male,Married,14842,No,1484.2
+31,1079,Sales,Medical,Female,Divorced,20115,Yes,2011.5
+34,735,Sales,Medical,Female,Married,16495,Yes,1649.5
+31,471,Research & Development,Medical,Female,Divorced,16031,No,1603.1000000000001
+26,1096,Research & Development,Other,Male,Married,7102,No,710.2
+45,1297,Research & Development,Medical,Male,Single,14511,No,1451.1000000000001
+33,217,Sales,Marketing,Male,Single,10410,No,1041.0
+28,783,Sales,Life Sciences,Male,Married,19255,Yes,1925.5
+29,746,Sales,Technical Degree,Male,Single,10642,No,1064.2
+39,1251,Sales,Life Sciences,Female,Married,3987,No,398.70000000000005
+27,1354,Research & Development,Technical Degree,Male,Married,6073,No,607.3000000000001
+34,735,Research & Development,Other,Male,Married,26496,Yes,2649.6000000000004
+28,1475,Sales,Marketing,Female,Single,23352,Yes,2335.2000000000003
+47,1169,Research & Development,Technical Degree,Male,Married,2125,No,212.5
+56,1443,Sales,Marketing,Female,Married,20328,No,2032.8000000000002
+39,867,Research & Development,Medical,Male,Married,12315,No,1231.5
+38,1394,Research & Development,Medical,Female,Divorced,18115,Yes,1811.5
+58,605,Sales,Life Sciences,Female,Married,11761,Yes,1176.1000000000001
+32,238,Research & Development,Life Sciences,Female,Single,15318,Yes,1531.8000000000002
+38,1206,Research & Development,Life Sciences,Male,Divorced,14293,No,1429.3000000000002
+49,1064,Research & Development,Life Sciences,Male,Married,13738,No,1373.8000000000002
+42,419,Sales,Marketing,Male,Divorced,2900,Yes,290.0
+27,1337,Human Resources,Human Resources,Female,Married,19555,No,1955.5
+35,682,Sales,Medical,Male,Married,15975,No,1597.5
+28,1103,Research & Development,Medical,Male,Single,2122,No,212.20000000000002
+31,976,Research & Development,Medical,Male,Divorced,3995,Yes,399.5
+36,1351,Research & Development,Life Sciences,Male,Married,9238,No,923.8000000000001
+34,937,Sales,Marketing,Male,Single,6770,No,677.0
+34,1239,Sales,Medical,Male,Divorced,22914,No,2291.4
+26,157,Research & Development,Medical,Male,Single,20006,No,2000.6000000000001
+29,136,Research & Development,Life Sciences,Male,Married,6225,No,622.5
+32,1146,Research & Development,Medical,Female,Divorced,16542,No,1654.2
+31,1125,Research & Development,Life Sciences,Male,Married,5771,No,577.1
+28,1404,Research & Development,Technical Degree,Male,Divorced,18779,No,1877.9
+38,1404,Sales,Life Sciences,Male,Single,11473,No,1147.3
+35,1224,Sales,Life Sciences,Female,Married,13586,Yes,1358.6000000000001
+27,954,Sales,Marketing,Male,Single,5099,No,509.90000000000003
+32,1373,Research & Development,Life Sciences,Male,Single,10138,No,1013.8000000000001
+31,754,Sales,Marketing,Male,Married,21075,Yes,2107.5
+53,1168,Sales,Life Sciences,Male,Single,5843,Yes,584.3000000000001
+54,155,Research & Development,Life Sciences,Female,Married,22474,No,2247.4
+33,1303,Research & Development,Life Sciences,Male,Divorced,18079,No,1807.9
+43,574,Research & Development,Life Sciences,Male,Married,16873,No,1687.3000000000002
+38,1444,Human Resources,Other,Male,Married,5224,Yes,522.4
+55,189,Human Resources,Human Resources,Male,Married,25811,Yes,2581.1000000000004
+31,1276,Research & Development,Medical,Female,Divorced,17536,Yes,1753.6000000000001
+39,119,Sales,Marketing,Male,Single,25098,No,2509.8
+42,335,Research & Development,Life Sciences,Male,Single,14811,No,1481.1000000000001
+31,697,Research & Development,Medical,Female,Married,26862,No,2686.2000000000003
+54,157,Research & Development,Medical,Female,Single,25198,Yes,2519.8
+24,771,Research & Development,Life Sciences,Male,Single,14120,No,1412.0
+23,571,Research & Development,Other,Male,Single,13672,No,1367.2
+40,692,Research & Development,Technical Degree,Female,Married,26849,No,2684.9
+40,444,Sales,Marketing,Female,Married,4258,No,425.8
+25,309,Human Resources,Human Resources,Female,Married,19655,No,1965.5
+30,911,Research & Development,Medical,Male,Married,4077,No,407.70000000000005
+25,977,Research & Development,Other,Male,Divorced,7298,Yes,729.8000000000001
+47,1180,Research & Development,Medical,Male,Single,13084,No,1308.4
+33,1313,Research & Development,Medical,Male,Divorced,20439,No,2043.9
+38,1321,Sales,Life Sciences,Male,Married,7636,No,763.6
+31,1154,Sales,Life Sciences,Male,Married,6393,No,639.3000000000001
+38,508,Research & Development,Life Sciences,Male,Married,14284,No,1428.4
+42,557,Research & Development,Life Sciences,Male,Divorced,11189,Yes,1118.9
+41,642,Research & Development,Life Sciences,Male,Married,21412,No,2141.2000000000003
+47,1162,Research & Development,Medical,Female,Married,17231,No,1723.1000000000001
+35,1490,Research & Development,Medical,Male,Married,20232,Yes,2023.2
+22,581,Research & Development,Life Sciences,Male,Single,17624,No,1762.4
+35,1395,Research & Development,Medical,Male,Single,18698,No,1869.8000000000002
+33,501,Research & Development,Medical,Female,Married,21653,Yes,2165.3
+32,267,Research & Development,Life Sciences,Female,Single,15919,No,1591.9
+40,543,Research & Development,Life Sciences,Male,Married,4060,No,406.0
+32,234,Sales,Medical,Male,Married,18024,No,1802.4
+39,116,Research & Development,Life Sciences,Male,Single,5340,No,534.0
+38,201,Research & Development,Medical,Female,Married,3376,No,337.6
+32,801,Sales,Marketing,Female,Married,24032,No,2403.2000000000003
+37,161,Research & Development,Life Sciences,Female,Married,15471,Yes,1547.1000000000001
+25,1382,Sales,Other,Female,Divorced,13684,Yes,1368.4
+52,585,Sales,Life Sciences,Male,Divorced,19788,No,1978.8000000000002
+44,1037,Research & Development,Medical,Male,Single,13422,Yes,1342.2
+21,501,Sales,Medical,Male,Single,25479,Yes,2547.9
+39,105,Research & Development,Life Sciences,Male,Single,15302,No,1530.2
+23,638,Sales,Marketing,Male,Married,26956,No,2695.6000000000004
+36,557,Sales,Medical,Female,Married,12695,No,1269.5
+36,688,Research & Development,Life Sciences,Female,Divorced,9192,No,919.2
+56,667,Research & Development,Life Sciences,Male,Divorced,26236,No,2623.6000000000004
+29,1092,Research & Development,Medical,Male,Married,26124,Yes,2612.4
+42,300,Research & Development,Life Sciences,Male,Married,17312,No,1731.2
+56,310,Research & Development,Technical Degree,Male,Married,3666,No,366.6
+41,582,Research & Development,Life Sciences,Female,Married,5640,No,564.0
+34,704,Sales,Marketing,Female,Married,8978,No,897.8000000000001
+36,301,Sales,Marketing,Male,Divorced,10436,No,1043.6000000000001
+41,930,Sales,Life Sciences,Male,Divorced,12227,No,1222.7
+32,529,Research & Development,Technical Degree,Male,Single,11288,No,1128.8
+35,1146,Human Resources,Life Sciences,Female,Single,16642,Yes,1664.2
+38,345,Sales,Life Sciences,Female,Married,5982,No,598.2
+50,878,Sales,Life Sciences,Male,Divorced,14255,No,1425.5
+36,1120,Sales,Marketing,Female,Married,14369,No,1436.9
+45,374,Sales,Life Sciences,Female,Single,23333,No,2333.3
+40,1322,Research & Development,Life Sciences,Male,Single,2725,No,272.5
+35,1199,Research & Development,Life Sciences,Male,Married,24594,Yes,2459.4
+40,1194,Research & Development,Medical,Female,Married,12549,No,1254.9
+35,287,Research & Development,Life Sciences,Female,Married,8952,No,895.2
+29,1378,Research & Development,Other,Male,Married,23679,Yes,2367.9
+29,468,Research & Development,Medical,Female,Single,8489,No,848.9000000000001
+50,410,Sales,Marketing,Male,Divorced,16586,Yes,1658.6000000000001
+39,722,Sales,Marketing,Female,Married,8828,No,882.8000000000001
+31,325,Research & Development,Medical,Male,Single,3787,No,378.70000000000005
+26,1167,Sales,Other,Female,Single,21378,No,2137.8
+36,884,Research & Development,Medical,Male,Married,12290,No,1229.0
+39,613,Research & Development,Medical,Male,Married,21457,No,2145.7000000000003
+27,155,Research & Development,Life Sciences,Male,Married,5174,Yes,517.4
+49,1023,Sales,Medical,Male,Married,13243,No,1324.3000000000002
+34,628,Research & Development,Medical,Male,Married,10228,No,1022.8000000000001
